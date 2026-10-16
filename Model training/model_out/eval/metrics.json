@@ -1,0 +1,95 @@
+{
+  "logreg": {
+    "kind": "logreg",
+    "name": "TF-IDF + logistic regression",
+    "threshold": 0.8811461019053806,
+    "precision_target_reached_on_validation": true,
+    "hyperparameters": {
+      "C": 16
+    },
+    "validation": {
+      "roc_auc": 0.9315859575682619,
+      "pr_auc": 0.9337774482691065
+    },
+    "test": {
+      "roc_auc": 0.9410181106216349,
+      "pr_auc": 0.9365658284629853,
+      "at_0.5": {
+        "threshold": 0.5,
+        "accuracy": 0.8629032258064516,
+        "precision": 0.8588807785888077,
+        "recall": 0.8526570048309179,
+        "f1": 0.8557575757575757,
+        "f0_5": 0.8576287657920311,
+        "specificity": 0.8722466960352423,
+        "tn": 396,
+        "fp": 58,
+        "fn": 61,
+        "tp": 353
+      },
+      "at_tuned_threshold": {
+        "threshold": 0.8811461019053806,
+        "accuracy": 0.7857142857142857,
+        "precision": 0.9488188976377953,
+        "recall": 0.5821256038647343,
+        "f1": 0.7215568862275449,
+        "f0_5": 0.8426573426573427,
+        "specificity": 0.9713656387665198,
+        "tn": 441,
+        "fp": 13,
+        "fn": 173,
+        "tp": 241
+      }
+    }
+  },
+  "nn": {
+    "kind": "nn",
+    "name": "From-scratch neural net",
+    "threshold": 0.8252364737541394,
+    "precision_target_reached_on_validation": true,
+    "hyperparameters": {
+      "emb_dim": 64,
+      "hidden": 32,
+      "lr": 0.003,
+      "dropout": 0.3,
+      "word_dropout": 0.1,
+      "l2": 1e-05,
+      "vocab_size": 8221,
+      "best_epoch": 2
+    },
+    "validation": {
+      "roc_auc": 0.9314432499286462,
+      "pr_auc": 0.9282780187854143
+    },
+    "test": {
+      "roc_auc": 0.9364957756070569,
+      "pr_auc": 0.9189201678280761,
+      "at_0.5": {
+        "threshold": 0.5,
+        "accuracy": 0.8732718894009217,
+        "precision": 0.8518518518518519,
+        "recall": 0.8888888888888888,
+        "f1": 0.8699763593380615,
+        "f0_5": 0.8590102707749766,
+        "specificity": 0.8590308370044053,
+        "tn": 390,
+        "fp": 64,
+        "fn": 46,
+        "tp": 368
+      },
+      "at_tuned_threshold": {
+        "threshold": 0.8252364737541394,
+        "accuracy": 0.8087557603686636,
+        "precision": 0.9133333333333333,
+        "recall": 0.6618357487922706,
+        "f1": 0.7675070028011205,
+        "f0_5": 0.8488228004956629,
+        "specificity": 0.9427312775330396,
+        "tn": 428,
+        "fp": 26,
+        "fn": 140,
+        "tp": 274
+      }
+    }
+  }
+}

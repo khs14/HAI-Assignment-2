@@ -1,0 +1,6 @@
+{
+  "kind": "nn",
+  "emb_dim": 64,
+  "hidden": 32,
+  "n_features": 8221
+}

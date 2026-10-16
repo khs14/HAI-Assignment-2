@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Validation set: NEVER upload (the ground-truth file contains the answers)
+data_validation/
+validation_*.csv
+*ground_truth*
+
+# Collection by-products (raw feeds and progress logs)
+data_small/
+test_run/
+raw_*.csv
+done_*.txt
+
+# Local notes
+directory_structure.txt

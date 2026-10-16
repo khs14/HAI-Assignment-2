@@ -1,0 +1,869 @@
+title,true_label,score_logreg,score_nn,pred_best,tier,group
+Are Delhi Capitals out of IPL 2026 playoffs race? Updated scenarios after KKR thrash DC,0,0.0185,0.0362,0,hard,Delhi Capitals
+"‘Christmas is a waste of money, people need to wake up’: the diary of a modern-day Scrooge",0,0.3051,0.4403,0,hard,"""waste of money"""
+"Hurricanes’ Stanley Cup run generated $13.4 million economic impact in Wake County, report shows",0,0.057,0.3372,0,hard,Carolina Hurricanes
+NFL scores: Buffalo Bills stun Cincinnati Bengals after Joe Burrow's nightmare finish as Baltimore Ravens lose again,0,0.0334,0.0503,0,easy,NFL scores
+Summer transfer window 2026 dates: When is Deadline Day for Premier League and EFL clubs to sign players?,0,0.0732,0.0293,0,easy,Premier League transfer
+"RBI keeps repo rate unchanged at 5.25%, announces forex measures to attract dollars",0,0.0212,0.0626,0,easy,RBI repo rate
+Nawazuddin Siddiqui talks about the current state of Bollywood: 'What has happened to our industry is pat,0,0.1009,0.1502,0,easy,Bollywood
+Heavy Steers and Lean Cows: Drivers of the 2026 Ground Beef Market,0,0.4148,0.3588,0,adjacent,cattle prices
+Oil Prices Rise as Iran Tempers U.S. Deal Hopes,0,0.0061,0.0207,0,adjacent,oil prices
+"Tata Safari Price in New Delhi (2026), Specs, Variants",0,0.022,0.0479,0,adjacent,mandi prices
+What To Know About NASA’s Artemis II Launch,0,0.0323,0.0408,0,adjacent,NASA launch
+Del HC rejects defamation suit against Netflix series Ba***ds of Bollywood | SCC Times,0,0.2035,0.2962,0,easy,Bollywood
+"Premier League summer transfers: A bunch of busts, or is patience is needed?",0,0.1302,0.0373,0,easy,Premier League transfer
+"Controversial Pierce County homeless village gets ‘green light,’ will move ahead",0,0.8277,0.8053,0,hard,"""green light"" project"
+"Austin named world's 6th-best startup ecosystem, jumping two spots",0,0.0251,0.07,0,hard,startup ecosystem
+COMMENTARY: Hormuz reopening could be OPEC’s undoing,0,0.1642,0.3435,0,adjacent,OPEC
+Viking Gustafsson Nyberg Signs with Minnesota Wild,0,0.1251,0.1999,0,hard,Minnesota Wild
+Carolina Hurricanes follow Stanley Cup title by figuring out to how to improve a largely set roster,0,0.0225,0.1484,0,hard,Carolina Hurricanes
+"NFL scores and more, Week 9: What happened on Sunday",0,0.0442,0.0823,0,easy,NFL scores
+Daily Sugar Market Update By Vizzie – 22/06/2026,0,0.0379,0.0632,0,adjacent,mandi prices
+"Green Shirts, Big Impact: The Story of Nutrien’s Volunteers",0,0.6939,0.8289,0,adjacent,employee volunteering
+"Petrol and Diesel Prices Rise for Fourth Time in 10 Days, Latest Hike Steepest",0,0.0037,0.0592,0,adjacent,petrol diesel price hike
+"Post-recap: UBA prioritises stability over expansion, posts N801bn Q1 earnings",0,0.0405,0.0341,0,hard,"""sustainable growth"" earnings"
+Artemis II launches into orbit as NASA begins historic moon mission,0,0.0551,0.0629,0,adjacent,NASA launch
+Axar Patel’s batting crisis is costing Delhi Capitals — and nobody knows where to bat him,0,0.6275,0.5895,0,hard,Delhi Capitals
+The Carolina Hurricanes: A Brand on the Rise,0,0.071,0.2263,0,hard,Carolina Hurricanes
+The History Behind Lithuania’s Booming Startup Ecosystem,0,0.0351,0.07,0,hard,startup ecosystem
+Clinical DC sign off with comfortable win over KKR,0,0.0105,0.0135,0,hard,Delhi Capitals
+"Fueled By FinTechs, DeepTechs, and HealthTechs, The City of Wilmington, North Carolina's Startup Scene Is On The Map",0,0.1257,0.3413,0,hard,startup ecosystem
+The unlikely city welcoming Delhi’s intellectual refugees,0,0.882,0.9643,1,hard,"""political climate"""
+28 Things Rich People Loooooove To Spend Their Money On That Normal People Think Are A Waste,0,0.0947,0.1165,0,hard,"""waste of money"""
+Sue Bird Becomes 1st WNBA Player With Statue Outside Arena,0,0.1464,0.3815,0,hard,Climate Pledge Arena
+Historic Santa Barbara Market Survives as 45-Unit Housing Project Gets Final Green Light,0,0.7779,0.6905,0,hard,"""green light"" project"
+UnionBank earnings drop 17% in 2025 despite strong revenue growth,0,0.0132,0.0617,0,hard,"""sustainable growth"" earnings"
+"OPEC secretary general says oil demand to remain robust, no change to estimates",0,0.3465,0.3704,0,adjacent,OPEC
+Minnesota Wild Support Mental Health Awareness Month at Playoff Home Games,0,0.061,0.0965,0,hard,Minnesota Wild
+What was Notre Dame’s 2026 NFL Draft Score?,0,0.0394,0.0543,0,easy,NFL scores
+"'Fleecing its own citizens': Congress slams Modi govt for petrol, diesel price increase by Rs 5 in 9 days",0,0.0748,0.2644,0,adjacent,petrol diesel price hike
+Revisiting Bollywood’s Most Stylish Cannes Debuts,0,0.0672,0.0147,0,easy,Bollywood
+"Mandi prices of major kharif crops show little improvement, shows data",0,0.0058,0.032,0,adjacent,mandi prices
+Bollywood Celebs Redefined: Fresh Pairings Challenging The Millennial Reign,0,0.1497,0.8038,0,easy,Bollywood
+Prosecutors granted access to Tiger Woods' prescription drug records,0,0.212,0.229,0,hard,Tiger Woods
+"Match Preview - Delhi Capitals vs Rajasthan Royals, Indian Premier League 2026 2026, 62nd Match | ESPN.com.au",0,0.0123,0.0124,0,hard,Delhi Capitals
+"Cattle Plunge on Economic Fears, JBS Plant Dark: How Low Do Prices Fall?",0,0.0171,0.0794,0,adjacent,cattle prices
+"Premier League Most Disappointing Signing of the Season: Alexander Isak, Yoane Wissa and GOAL's top 20 for 2025-26 - ranked",0,0.031,0.0363,0,easy,Premier League transfer
+Minnesota Wild Selects Three Players in the 2026 Upper Deck NHL Draft,0,0.2006,0.2185,0,hard,Minnesota Wild
+How Oregon's fragmented tech strategy is holding back startups,0,0.0138,0.124,0,hard,startup ecosystem
+Artemis II Mission Milestones: An Image and Video Recap,0,0.1038,0.0459,0,adjacent,NASA launch
+Kushner Companies Gets Green Light for Atlantic City Project,0,0.9596,0.9381,1,hard,"""green light"" project"
+Weather Delays Launch of Mission to Boost NASA’s Swift,0,0.1776,0.1508,0,adjacent,NASA launch
+"RBI keeps repo rate unchanged at 5.25%, Reduces GDP growth projection to 6.6%",0,0.3789,0.0834,0,easy,RBI repo rate
+7 OPEC Countries Agree To Boost Oil Production After UAE Exit,0,0.4255,0.324,0,adjacent,OPEC
+Is it too much to ask for a 9XM morning of Bollywood songs in 2026?,0,0.1159,0.0956,0,easy,Bollywood
+WATCH: Trump calls PBS and NPR 'a waste of money' at funding bill signing,0,0.0831,0.0533,0,hard,"""waste of money"""
+"Carolina Hurricanes roll past Vegas Golden Knights, 4-2, to come within one game of Stanley Cup",0,0.0126,0.0629,0,hard,Carolina Hurricanes
+Ex-'SNL' star agrees 'waste' of money to support Jasmine Crockett,0,0.1512,0.3305,0,hard,"""waste of money"""
+Jemimah Rodrigues appointed Delhi Capitals captain ahead of WPL 2026,0,0.3512,0.379,0,hard,Delhi Capitals
+Harris Health gets green light to acquire portion of Hermann Park for hospital expansion,0,0.2613,0.1668,0,hard,"""green light"" project"
+"Match Preview - Kolkata Knight Riders vs Delhi Capitals, Indian Premier League 2026 2026, 70th Match | ESPN.co.uk",0,0.0061,0.0153,0,hard,Delhi Capitals
+IPL 2026: Delhi Capitals to take on Kolkata Knight Riders in Delhi today,0,0.1548,0.0718,0,hard,Delhi Capitals
+USGA shares Tiger Woods status update with US Open fast approaching,0,0.1281,0.0434,0,hard,Tiger Woods
+New tax scams: Schemes use clean energy credits; robocalls say debt is 'noncollectible',0,0.993,0.9734,1,positive,"""clean energy tax credit"""
+Handcrafted Bags and Bollywood: The Quiet Rise of Craft-First Luxury,0,0.3756,0.6078,0,easy,Bollywood
+Oil prices rise after US and Iran exchange fire in Hormuz strait,0,0.0074,0.0241,0,adjacent,oil prices
+Just 50 Products To Try In 2026 That Really And Truly Are Not A Waste Of Money,0,0.0347,0.0516,0,hard,"""waste of money"""
+RBI Holds Repo Rate At 5.25%: Will Your Home Loan Get Cheaper?,0,0.0138,0.0292,0,easy,RBI repo rate
+NFL scores: Denver Broncos stun Philadelphia Eagles as Baker Mayfield out-duels Sam Darnold in thriller,0,0.0677,0.0491,0,easy,NFL scores
+Beef prices: More to the story,0,0.0181,0.0553,0,adjacent,cattle prices
+The CSR Leader’s Dilemma: Stuck in the Fear Zone,0,0.4121,0.8757,0,adjacent,employee volunteering
+"Oil price surge is hurting African economies: scholars in Ethiopia, Kenya, Nigeria, Senegal and South Africa take stock",0,0.0539,0.1874,0,adjacent,oil prices
+Pearl Jam - HURT - 4K - Live SEATTLE WA @ CLIMATE PLEDGE ARENA 5.30.24,0,0.6261,0.2389,0,hard,Climate Pledge Arena
+Skills-based volunteer programs can boost employee satisfaction. More companies want in.,0,0.1282,0.2029,0,adjacent,employee volunteering
+"Thousands strike at JBS facility in Colorado, raising questions about cattle prices and market volatility",0,0.0458,0.1633,0,adjacent,cattle prices
+"Oil soars past $100 a barrel, stocks plunge as US-Israel war on Iran rages",0,0.0264,0.0461,0,adjacent,oil prices
+Trump pardons Climate Pledge Arena developer months after indictment,0,0.8856,0.8983,1,hard,Climate Pledge Arena
+"Petrol, diesel prices on June 13: Check fuel cost in Chennai, Bengaluru, Delhi, Kolkata, Mumbai and other cities today",0,0.1249,0.2479,0,adjacent,petrol diesel price hike
+Artemis II Crew Rehearse Launch Day Demonstration,0,0.0726,0.0225,0,adjacent,NASA launch
+Two High-Level Fights Join UFC’s Return To Seattle On March 28,0,0.0447,0.0437,0,hard,Climate Pledge Arena
+What the US strike on Venezuela could mean for global oil prices,0,0.0237,0.075,0,adjacent,oil prices
+Excited visitors for NASA's moon launch jockey for prime views,0,0.0034,0.0329,0,adjacent,NASA launch
+Tiger Woods returns home to Florida following rehab in Europe,0,0.3652,0.2488,0,hard,Tiger Woods
+Eric Tulsky's End-of-Season Media Availability | Carolina Hurricanes,0,0.1089,0.052,0,hard,Carolina Hurricanes
+NFL scores and recaps for every Week 14 game,0,0.0834,0.0551,0,easy,NFL scores
+"Data Shorts: Powerplay sets the gap, Delhi Capitals fail to bridge it KL Rahul Axar Patel Heman Badani",0,0.5161,0.3546,0,hard,Delhi Capitals
+Asha Bhosle: The sound of Bollywood dies aged 92,0,0.3114,0.3443,0,easy,Bollywood
+OPEC Plus to Boost Oil Production as Ceasefire in Iran Remains Elusive,0,0.0465,0.0926,0,adjacent,OPEC
+"In Today's Political Climate, Teachers Must Center Empathy (Opinion)",0,0.6942,0.9231,0,hard,"""political climate"""
+"Tiger Woods arrested at crash scene on suspicion of DUI, sheriff says",0,0.045,0.0231,0,hard,Tiger Woods
+"Ada County twice turned down housing on SW Boise lot. Now, a commercial project got the green light",0,0.7859,0.6988,0,hard,"""green light"" project"
+Iran Conflict Brief: Why the UAE Is Leaving OPEC Now,0,0.0825,0.0787,0,adjacent,OPEC
+Philadelphia Eagles 13-12 Buffalo Bills,0,0.0293,0.1001,0,easy,NFL scores
+OPEC and the UAE Exit,0,0.2652,0.6412,0,adjacent,OPEC
+OPEC Plus to Boost Oil Production as Iran Strikes Threaten Price Spike,0,0.0184,0.0635,0,adjacent,OPEC
+4 Ace Hardware finds that make Home Depot feel like a waste of money,0,0.032,0.1236,0,hard,"""waste of money"""
+"Palaniswami, Shah meet to discuss TN political climate",0,0.8119,0.8929,0,hard,"""political climate"""
+"WPL 2026 auction - what teams need, what they can do about it",0,0.0361,0.0787,0,hard,Delhi Capitals
+"Minnesota Wild will play Game 2 without Eriksson Ek, Brodin",0,0.1331,0.2572,0,hard,Minnesota Wild
+Argentina’s Largest NGL Project Gets Green Light,0,0.9404,0.9591,1,hard,"""green light"" project"
+The Carolina Hurricanes beat the Vegas Golden Knights 4-2 to take a 3-2 lead in the Stanley Cup Final,0,0.0342,0.1077,0,hard,Carolina Hurricanes
+An open letter to Tiger Woods,0,0.141,0.0216,0,hard,Tiger Woods
+Skills-based volunteering in action: How Campbell's ScopeAthon helps nonprofits move from challenge to clarity,0,0.474,0.7176,0,adjacent,employee volunteering
+New video shows moments after Tiger Woods' Florida crash that led to DUI arrest,0,0.0349,0.0259,0,hard,Tiger Woods
+Takko Fashion reports further revenue and earnings growth,0,0.0574,0.0314,0,hard,"""sustainable growth"" earnings"
+Prelim Results | UFC Seattle,0,0.0029,0.0001,0,hard,Climate Pledge Arena
+RBI is buying time by not cutting the repo rate. Past policy needs a breather to work,0,0.1513,0.3417,0,easy,RBI repo rate
+"Petrol, diesel prices raised again; fuel rates up 90 paise per litre",0,0.0232,0.1267,0,adjacent,petrol diesel price hike
+Iraq Warns It Might Quit OPEC If It Doesn’t Get Quota Hike,0,0.0145,0.0603,0,adjacent,OPEC
+"Beef production to fall, demand keeps prices strong",0,0.0372,0.1241,0,adjacent,cattle prices
+Oil prices dive as more tankers move through Strait of Hormuz,0,0.0174,0.0723,0,adjacent,oil prices
+The power of ten — and the power of Purpose,0,0.5974,0.5712,0,adjacent,employee volunteering
+Detroit Red Wings pick up first win on road trip vs Seattle Kraken,0,0.0024,0.0104,0,hard,Climate Pledge Arena
+‘The biggest waste of money.’ 6 financial pros tell us what investments you may want to kick to the curb,0,0.0839,0.1486,0,hard,"""waste of money"""
+NFL Week 10 projected scores: Model predicts point spreads and totals for every game,0,0.0436,0.0449,0,easy,NFL scores
+Côte d’Ivoire’s presidential election entrenches democratic fragility,0,0.092,0.0935,0,hard,"""political climate"""
+"The Ba***ds, The Buzz: A Reflection On And In Bollywood's Mirror",0,0.1733,0.1397,0,easy,Bollywood
+Oil surges 35% this week for biggest gain in futures trading history dating back to 1983,0,0.0757,0.0738,0,adjacent,oil prices
+Extra Day Between Games Has Canes Feeling 'Fresh and Prepared' | Carolina Hurricanes,0,0.1358,0.1128,0,hard,Carolina Hurricanes
+The Carolina Hurricanes have long thrived at home. They need to do it now in the Stanley Cup Final,0,0.0951,0.0998,0,hard,Carolina Hurricanes
+Trump's plan for a triumphal arch gets initial green light from federal panel,0,0.6732,0.64,0,hard,"""green light"" project"
+Cynthia Frelund on who scores in Sunday's divisional round action | 'NFL GameDay Morning',0,0.0163,0.0882,0,easy,NFL scores
+"Sensex, Nifty open lower amid austerity concerns, rising crude prices",0,0.0048,0.0144,0,adjacent,mandi prices
+US cattle ranchers search for feed as wildfires burn grazing lands,0,0.5052,0.6529,0,adjacent,cattle prices
+Every signing made by Premier League clubs in January transfer window 2026,0,0.079,0.0317,0,easy,Premier League transfer
+How rising beef prices are affecting Oklahoma ranchers,0,0.0248,0.2079,0,adjacent,cattle prices
+The Carolina Hurricanes break the 20 year drought by winning back the Stanley Cup.,0,0.1675,0.1139,0,hard,Carolina Hurricanes
+Vattenfall gets green light for 254-MW battery project in Germany,0,0.9338,0.9221,1,hard,"""green light"" project"
+Review: Paul Thomas Anderson’s ‘One Battle After Another’ tackles current political climate,0,0.0534,0.1557,0,hard,"""political climate"""
+Changes to India's repo rate since June 2000,0,0.2197,0.1903,0,easy,RBI repo rate
+NASA Sets Coverage for Crew Launch to Join Station Expedition,0,0.1711,0.0874,0,adjacent,NASA launch
+‘Every central agency sold out like in Chaitra sale’: Mamata hits out at BJP over voters’ name deletion,0,0.0417,0.0883,0,hard,"""political climate"""
+Priest River gives green light to Two Rivers Park design,0,0.8619,0.7125,0,hard,"""green light"" project"
+Shrinking beef cattle herd means higher prices and volatility,0,0.0193,0.0395,0,adjacent,cattle prices
+"NFL Week 3: Biggest questions, takeaways for every game",0,0.0842,0.1659,0,easy,NFL scores
+"Iran crisis hurting India's basmati exports, affecting mandi prices: Group",0,0.1789,0.2709,0,adjacent,mandi prices
+Your Family-Friendly Guide to a Seattle Kraken Game,0,0.0025,0.0163,0,hard,Climate Pledge Arena
+Sheriff's sponsorship of 'Race for the Rings' news coverage is a waste of money,0,0.0678,0.1582,0,hard,"""waste of money"""
+The US political climate spurs efforts to reclaim the MLK holiday,0,0.8953,0.8933,1,hard,"""political climate"""
+Watch the 2026 Stanley Cup Champion Carolina Hurricanes 'Celebrating the Cup' Victory Parade LIVE SATURDAY!,0,0.0099,0.026,0,hard,Carolina Hurricanes
+"Why Priyanka Chopra Left Bollywood At The Peak Of Her Career: ""Don't Like Staying In Sh**""",0,0.1004,0.2676,0,easy,Bollywood
+RBI keeps policy repo rate unchanged at 5.25%,0,0.3125,0.0923,0,easy,RBI repo rate
+$11.6M road and rail rehabilitation project expected to revamp Port of Pensacola,0,0.5306,0.3848,0,hard,"""green light"" project"
+Annual Humana Community Day Expands Nationwide to Deepen Employee Impact in Local Communities,0,0.7756,0.3907,0,adjacent,employee volunteering
+"NFL Week 16 picks: Upset and score predictions, matchup analysis for every game",0,0.0216,0.1013,0,easy,NFL scores
+"Column: Tar Heels, it’s time to join the Carolina Hurricanes bandwagon",0,0.178,0.3452,0,hard,Carolina Hurricanes
+Lam’s TUX project gets green light from city but faces an appeal over the approval,0,0.8052,0.7262,0,hard,"""green light"" project"
+Oil prices rise amid stalled US-Iran peace talks,0,0.0019,0.0074,0,adjacent,oil prices
+"Telus expands employee volunteer initiative amid growing focus on engagement, workplace culture",0,0.0508,0.1461,0,adjacent,employee volunteering
+"NFL Week 7 winners and losers: Chiefs, Eagles rediscover offensive juice as Dolphins, Jets sink to new lows",0,0.0748,0.06,0,easy,NFL scores
+$13 Billion Commonwealth LNG Project Gets Green Light in Louisiana,0,0.7073,0.7562,0,hard,"""green light"" project"
+"When oil prices spike, where does the money go?",0,0.0394,0.0777,0,adjacent,oil prices
+"In reversal, Walz says he needs deal with top lawmakers to call special session on guns",0,0.0538,0.0636,0,hard,"""waste of money"""
+1 week away! NASA gearing up to launch Artemis 2 astronauts around the moon on April 1,0,0.0102,0.0485,0,adjacent,NASA launch
+"Tiger Woods posts bail, released from Martin County Jail following DUI arrest",0,0.0854,0.0455,0,hard,Tiger Woods
+IPL 2026: Delhi Capitals return to winning ways by thrashing Rajasthan Royals,0,0.3552,0.0568,0,hard,Delhi Capitals
+Investors see Arizona's 'capital vacuum' starting to close as more wealth moves to Valley,0,0.0308,0.1228,0,hard,startup ecosystem
+Tiger Woods fights attempts to subpoena his pharmacy records,0,0.6184,0.0726,0,hard,Tiger Woods
+"People are naming popular kitchen gadgets that were a total waste of money, and a few they can't live without",0,0.3434,0.2447,0,hard,"""waste of money"""
+"RBI MPC Meet Highlights: Governor on repo rate, inflation, rupee and exports, key points explained",0,0.0291,0.0537,0,easy,RBI repo rate
+"Cattle market update: Screwworm, drought and strong beef prices",0,0.0069,0.0372,0,adjacent,cattle prices
+Carolina Hurricanes Win 2026 Stanley Cup Final,0,0.0148,0.0088,0,hard,Carolina Hurricanes
+SEATTLE TORRENT ANNOUNCE APRIL 18 HOME GAME TO START AT 2 P.M. PT,0,0.0006,0.015,0,hard,Climate Pledge Arena
+Caution: More fuel hikes loom as oil firms battle crude price and loss pressure,0,0.0533,0.0552,0,adjacent,petrol diesel price hike
+"Sacramento approves $2 million ShotSpotter deal despite concerns over effectiveness, cost",0,0.0722,0.0514,0,hard,"""waste of money"""
+$61.6M Placer Parkway Project gets green light,0,0.8975,0.9289,1,hard,"""green light"" project"
+"Fuel Price Hike Sparks Anger Among Delhi Commuters, Taxi Drivers",0,0.1535,0.141,0,adjacent,petrol diesel price hike
+Philadelphia startup ecosystem tumbles in rankings; advocates cite overlooked gains,0,0.0189,0.0855,0,hard,startup ecosystem
+A volunteer network steps up for departing IRS staff,0,0.048,0.31,0,adjacent,employee volunteering
+RBI Keeps Repo Rate Steady At 5.25% As US-Iran War Adds Pressure On India,0,0.0223,0.0263,0,easy,RBI repo rate
+Hurricanes Announce 2026 Exhibition Schedule | Carolina Hurricanes,0,0.0374,0.0101,0,hard,Carolina Hurricanes
+What to expect from February 2026 RBI Monetary Policy,0,0.1314,0.063,0,easy,RBI repo rate
+Minnesota Wild Announces Multi-year Affiliation Agreement With Jacksonville Icemen,0,0.1189,0.2113,0,hard,Minnesota Wild
+Transfer news: Full list of all done deals in July 2026,0,0.0036,0.0234,0,easy,Premier League transfer
+sombr tickets on sale in Seattle at Climate Pledge Arena,0,0.3404,0.0987,0,hard,Climate Pledge Arena
+Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS,0,0.1308,0.0719,0,adjacent,employee volunteering
+NFL Week 7 takeaways: What We Learned from Sunday's 12 games,0,0.0406,0.064,0,easy,NFL scores
+NIKE's DTC Strategy: Catalyst for Sustainable Growth or Margin Risk?,0,0.6329,0.8969,0,hard,"""sustainable growth"" earnings"
+NEWSLETTER: Why the UAE no longer needs OPEC,0,0.1293,0.4944,0,adjacent,OPEC
+Final Preparations Underway for NASA’s Moon Mission,0,0.1739,0.0306,0,adjacent,NASA launch
+"OPEC oil output plunges in March as war forces export cuts, Reuters survey finds",0,0.1595,0.1388,0,adjacent,OPEC
+"Old Pac-12 rivals Oregon, Arizona begin 2nd-round NCAA tournament March Madness match Climate Pledge Arena",0,0.1085,0.1187,0,hard,Climate Pledge Arena
+"U.S. cattle herd stays at 75-year low, keeping beef prices high",0,0.027,0.064,0,adjacent,cattle prices
+"7 Supplement Mistakes That Are Wasting Your Money, According to Doctors",0,0.0909,0.0309,0,hard,"""waste of money"""
+Milk & More on ‘sustainable growth’ path despite revenue fall,0,0.6649,0.5036,0,hard,"""sustainable growth"" earnings"
+BABYMONSTER - Member Solos - HELLO MONSTERS: 1ST WORLD TOUR @ Climate Pledge Arena - 9.12.25,0,0.6167,0.6405,0,hard,Climate Pledge Arena
+Tiger Woods Seen For First Time Stepping Off Plane After Rehab,0,0.3018,0.0618,0,hard,Tiger Woods
+I’m a Self-Made Millionaire: 3 Things To Stop Buying,0,0.0703,0.3596,0,hard,"""waste of money"""
+US students seek safety and support in education abroad,0,0.0314,0.0983,0,hard,"""political climate"""
+"Political violence is on the rise in EU, driven by extremism and disillusionment",0,0.7094,0.7263,0,hard,"""political climate"""
+"Employees donate 337,518 meals across nine northern NM counties | LANL",0,0.3265,0.5435,0,adjacent,employee volunteering
+GIII Drives Sustainable Growth Through Brand Ownership and Innovation,0,0.6334,0.6797,0,hard,"""sustainable growth"" earnings"
+"stc reports KD 255.7 million in revenues, KD 25.8 million in net profit for 9 months",0,0.1378,0.1649,0,hard,"""sustainable growth"" earnings"
+2026 FREE AGENCY STRATEGEM MORPHS INTO FLAT CIRCLE FOR THE WILD,0,0.2246,0.2521,0,hard,Minnesota Wild
+Chicago startup ecosystem drops to No. 20 in latest global ranking,0,0.0295,0.2253,0,hard,startup ecosystem
+Burkina Faso: Escalating security threat and a tightening political climate,0,0.8947,0.9051,1,hard,"""political climate"""
+Startup Ecosystem Stars Awards for Scaleup Hamburg,0,0.005,0.071,0,hard,startup ecosystem
+UAE quits OPEC in blow to cartel that could reshape global oil markets | CNN Business,0,0.0558,0.2937,0,adjacent,OPEC
+The World Is Awash With Oil and Prices Are Poised to Keep Falling,0,0.1722,0.2943,0,adjacent,oil prices
+"Polish envoy Świtalski is a Bollywood buff, with a dream of being cast as an ‘extra’ some day",0,0.096,0.1036,0,easy,Bollywood
+VOTE: Who is the best January signing in Premier League history?,0,0.0891,0.0484,0,easy,Premier League transfer
+Tiger Woods' medical records from DUI arrest to be subpoenaed,0,0.3651,0.0836,0,hard,Tiger Woods
+"Artemis II Flight Crew, Teams Conduct Demonstration Ahead of Launch",0,0.0743,0.064,0,adjacent,NASA launch
+Multiple Expansion - the amplifier of share price returns,0,0.0105,0.1054,0,hard,"""sustainable growth"" earnings"
+Generals Reportedly Criticize Being Flown From Around The World To Meeting With Hegseth: 'Total Waste Of Money',0,0.3965,0.3779,0,hard,"""waste of money"""
+"NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind",0,0.8206,0.7039,0,adjacent,NASA launch
+"Seattle Kraken, Climate Pledge Arena replace official wine partner",0,0.3948,0.3255,0,hard,Climate Pledge Arena
+RBI MPC meet begins; status quo on policy rate likely,0,0.287,0.4593,0,easy,RBI repo rate
+Jackson Blake wins Stanley Cup with Carolina Hurricanes,0,0.0204,0.0316,0,hard,Carolina Hurricanes
+"OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows",0,0.0445,0.0548,0,adjacent,OPEC
+Political climate sets scene for new Romeo and Juliet,0,0.866,0.7071,0,hard,"""political climate"""
+See the prices of new players added to Fantasy,0,0.0102,0.0466,0,easy,Premier League transfer
+"Petrol, diesel, LPG rates today on May 28: Have OMCs announced new hike? Check rates in Delhi, Kolkata,...",0,0.0153,0.0591,0,adjacent,petrol diesel price hike
+The IRS is Warning All Americans of a New Scam,0,0.1057,0.2451,0,positive,"""clean energy tax credit"""
+Transfer deadline day: What do Premier League club fans want before window closes?,0,0.0169,0.022,0,easy,Premier League transfer
+9 Popular Android Apps That Are A Waste Of Your Money,0,0.1038,0.0832,0,hard,"""waste of money"""
+"Third fuel price hike in 2 weeks: Petrol price raised by 87 paise, diesel by 91 paise",0,0.0099,0.0835,0,adjacent,petrol diesel price hike
+Judge grants Woods permission to leave U.S. for treatment,0,0.2356,0.1255,0,hard,Tiger Woods
+U.S. Meat Consumption Increases Despite Rising Prices,0,0.0508,0.2893,0,adjacent,cattle prices
+LIVE: RBI Monetary Policy LIVE | Repo Rate Hike or Pause? Key Expectations,0,0.0969,0.0452,0,easy,RBI repo rate
+Mauritania’s startup ecosystem: Promise at the periphery,0,0.0106,0.0409,0,hard,startup ecosystem
+"REMARKS: Welcome Remarks by Secretary General, Baron Divavesi Waqa, at the Pacific ACP Leaders Meeting",0,0.0668,0.1082,0,hard,"""political climate"""
+Seattle Startup Ecosystem: A Complete Guide for Founders in 2026,0,0.0008,0.0163,0,hard,startup ecosystem
+Cardinal at Work Cares giving campaign kicks off with inspiration,0,0.0263,0.0453,0,adjacent,employee volunteering
+Morocco Commits MAD 1.3 Billion to Boost Startup Ecosystem Under Digital 2030 Plan,0,0.0498,0.3125,0,hard,startup ecosystem
+10 Bollywood Movies Feat A Killer Crocodile Before Shanaya & Adarsh Gourav's Tu Yaa Main,0,0.0439,0.0347,0,easy,Bollywood
+Fuel prices rise again: How much does petrol and diesel cost today? Check rates in your city,0,0.0392,0.1854,0,adjacent,petrol diesel price hike
+Why Benevity Believes Corporate Volunteering Needs Re-Imagining,0,0.1255,0.5218,0,adjacent,employee volunteering
+Bollywood ‘on ventilator’? Global media decodes Dhurandhar effect & gas shortage pits dal against data,0,0.5884,0.5744,0,easy,Bollywood
+"RBI Likely To Hold Repo Rate In June MPC Amid Inflation, Rupee Concerns, Say Experts",0,0.0766,0.1189,0,easy,RBI repo rate
+Jacksonville Jaguars 34-20 Denver Broncos,0,0.0556,0.7098,0,easy,NFL scores
+"NFL Week 11 scores: Josh Allen's dominance lifts Bills to win, multiple games finish tight",0,0.0439,0.044,0,easy,NFL scores
+The Need for Political Science in a Politically Turbulent World,0,0.869,0.8659,0,hard,"""political climate"""
+Research Shows There Are No Easy Fixes to Political Hatred,0,0.1697,0.2747,0,hard,"""political climate"""
+RBI set to hold repo rate as war-driven inflation clouds outlook,0,0.255,0.2356,0,easy,RBI repo rate
+"Delhi Capitals vs Chennai Super Kings Live Scores and Result, IPL 2024",0,0.0095,0.0126,0,hard,Delhi Capitals
+'Leave Him Be': Tiger Woods Receives Unexpected Fan Support as He Leaves US After DUI Arrest,0,0.2471,0.0971,0,hard,Tiger Woods
+Tel Aviv remains world's fourth-largest startup ecosystem despite wartime pressures - Israel & Jewish News,0,0.0108,0.1375,0,hard,startup ecosystem
+NASA completes hourslong moon launch rehearsal after repairing its rocket,0,0.012,0.0441,0,adjacent,NASA launch
+"UAE left OPEC to pump more as end of oil era looms, presidential adviser says",0,0.1134,0.2161,0,adjacent,OPEC
+"Mason Shaw Has ""Nothing But Good Things to Say"" About Minnesota",0,0.2052,0.2199,0,hard,Minnesota Wild
+AI gives Harry Potter a Bollywood twist: You won't believe how perfect Saif Ali Khan looks as Snape | Bollywood,0,0.0322,0.0386,0,easy,Bollywood
+"First Holdco Plc grows gross earnings to N3.4 Trillion for the unaudited full year ended December 31, 2025",0,0.0261,0.0643,0,hard,"""sustainable growth"" earnings"
+IPL Cricket: Delhi Capitals set a target of 225 runs before Gujarat Titans,0,0.0584,0.051,0,hard,Delhi Capitals
+How Bollywood Assimilates and Stereotypes Sikh Identity,0,0.1737,0.6195,0,easy,Bollywood
+"Modon Holding reports AED13.8 billion revenue, AED3.9 billion net profit for 2025",0,0.1579,0.4191,0,hard,"""sustainable growth"" earnings"
+Oil prices jumping after Iran reportedly says it closed the Strait of Hormuz,0,0.0073,0.0319,0,adjacent,oil prices
+Your all-SSD NAS is a massive waste of money,0,0.0649,0.1494,0,hard,"""waste of money"""
+"What’s Behind the Crash in Cattle Futures, Will Selling Continue? Grains Add War Premium",0,0.2729,0.1698,0,adjacent,cattle prices
+Pop Mart’s quarterly revenue surges but tepid fan growth overseas dims outlook,0,0.0333,0.1145,0,hard,"""sustainable growth"" earnings"
+IPL 2026: Delhi Capitals skipper Axar Patel talks of next year and changes amid team’s disappointing season,0,0.0211,0.0192,0,hard,Delhi Capitals
+NPGF Posts 45.4% Profit Growth in 2025,0,0.0421,0.1676,0,hard,"""sustainable growth"" earnings"
+Olympian-studded lineups headline sold-out Torrent game at Climate Pledge Arena,0,0.823,0.852,0,hard,Climate Pledge Arena
+The UAE is leaving the OPEC oil cartel. What could that mean for oil prices?,0,0.0352,0.0492,0,adjacent,OPEC
+Positive Update Emerges on Tiger Woods’ Future After Missing Six Consecutive Majors,0,0.0487,0.0243,0,hard,Tiger Woods
+Rod Brind’Amour was Carolina Hurricanes royalty before winning Stanley Cup as head coach,0,0.0481,0.0232,0,hard,Carolina Hurricanes
+"NFL Week 5 picks: Chiefs vs. Jaguars on Monday night — score predictions, analysis",0,0.0525,0.1141,0,easy,NFL scores
+Volunteering Is Good for Your Health!,0,0.2117,0.2211,0,adjacent,employee volunteering
+Artemis II Launch,0,0.0538,0.0205,0,adjacent,NASA launch
+"Tiger Woods return delayed: 15-time major winner does not enter 2026 Open Championship, per report",0,0.1755,0.103,0,hard,Tiger Woods
+Centre to release 3 lakh tonnes of buffer onion stock from September to keep prices stable,0,0.027,0.0834,0,adjacent,mandi prices
+IPL 2026: Rs 12 lakh fine for Delhi Capitals captain Axar Patel after win vs Punjab Kings,0,0.1624,0.0313,0,hard,Delhi Capitals
+Could more cattle cause record beef prices to drop?,0,0.1721,0.2283,0,adjacent,cattle prices
+Football Daily | Transfer deadline day awaits – will any desperate clubs go wild in the aisles?,0,0.1195,0.3266,0,easy,Premier League transfer
+3 Carolina Hurricanes who need to step it up as they barrel towards the postseason,0,0.1049,0.2604,0,hard,Carolina Hurricanes
+The Minnesota Wild Are Taco Bell,0,0.1954,0.5972,0,hard,Minnesota Wild
+Veggie prices rise in Delhi as flood waters recede in neighbouring states,0,0.6997,0.6938,0,adjacent,mandi prices
+"Petrol, diesel prices hiked by 90 paise per litre, 2nd increase in under a week as OMCs continue to bleed",0,0.0378,0.1199,0,adjacent,petrol diesel price hike
+Summer transfer needs for all 20 Premier League teams,0,0.0414,0.0335,0,easy,Premier League transfer
+"Beef Prices: Blame the Packers, Not America’s Ranchers",0,0.0045,0.0508,0,adjacent,cattle prices
+Serving up two decades of loyalty and leadership in volunteering,0,0.2252,0.4381,0,adjacent,employee volunteering
+Sugar prices under pressure amid outlook of strong supplies,0,0.0096,0.0783,0,adjacent,mandi prices
+Ideal 2026 Summer Transfer Windows for the Premier League's Biggest Spenders,0,0.0574,0.0498,0,easy,Premier League transfer
+"Wild on 7th - Episode 151: Round 2, Game 4 Recap",0,0.0294,0.0489,0,hard,Minnesota Wild
+"OPEC and Allies Agree to Boost Oil Production, Then Pause",0,0.3847,0.3779,0,adjacent,OPEC
+‘Fill the void’: Large urban project gets green light from Meridian City Council,0,0.9112,0.8318,1,hard,"""green light"" project"
+Strait of Hormuz disruption sends oil prices surging,0,0.0126,0.0851,0,adjacent,oil prices
+"Petrol, Diesel Prices Hike: Impact and Analysis",0,0.0076,0.0449,0,adjacent,petrol diesel price hike
+When does the summer transfer window close?,0,0.2861,0.1201,0,easy,Premier League transfer
+Solar’s Next Big Challenge- Sustainable Growth,0,0.8256,0.8175,0,hard,"""sustainable growth"" earnings"
+"Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",0,0.0262,0.0925,0,adjacent,oil prices
+Oil Prices Are Crashing. Inventories Tell A Different Story.,0,0.0123,0.0342,0,adjacent,oil prices
+Football transfer rumours: Jérémy Jacquet to Liverpool or Chelsea?,0,0.0193,0.1234,0,easy,Premier League transfer
+Tiger Woods is reportedly open to return to golf following DUI,0,0.1022,0.0326,0,hard,Tiger Woods
+Fight By Fight Preview | UFC Seattle,0,0.0818,0.0214,0,hard,Climate Pledge Arena
+Colorado Avalanche top Minnesota Wild in high-scoring opener,0,0.0698,0.1416,0,hard,Minnesota Wild
+"Petrol, diesel prices a day after 3rd hike: Check fuel rates in Delhi, Mumbai, Bengaluru on May 24",0,0.0175,0.1019,0,adjacent,petrol diesel price hike
+Oil prices climb 2% after cargo ship hit by projectile near Oman,0,0.0718,0.0383,0,adjacent,oil prices
+"RBI MPC meeting: Will the central bank cut, pause or hike rates amid Middle East crisis & inflation fears",0,0.0758,0.3065,0,easy,RBI repo rate
+Aldermen green light two new housing projects,0,0.8034,0.8712,0,hard,"""green light"" project"
+"Tiger Woods is not playing the Masters this week after car crash, DUI arrest",0,0.0494,0.0268,0,hard,Tiger Woods
+"Transfer rumors, news: Man United, Arsenal eye Juve's Cambiaso",0,0.004,0.0163,0,easy,Premier League transfer
+Economics of U.S. Beef and Cattle Market,0,0.1907,0.3677,0,adjacent,cattle prices
+Record Cattle Prices Continue at Northern Livestock Early Summer Special,0,0.1554,0.1156,0,adjacent,cattle prices
+I’m a Lutheran: Doug Bennett,0,0.0362,0.0372,0,hard,Carolina Hurricanes
+On the rise: Miami area shines in new global ecosystem ranking,0,0.0835,0.4155,0,hard,startup ecosystem
+Why are tomato prices rising? : Data,0,0.0177,0.0594,0,adjacent,mandi prices
+"K-pop stars deliver on spectacle, little else in hollow Seattle show",0,0.0286,0.0758,0,hard,Climate Pledge Arena
+Tiger Woods 'Is Doing the Best He Can' in Treatment as Girlfriend Vanessa Trump Faces Cancer (Exclusive Source),0,0.0986,0.1386,0,hard,Tiger Woods
+University of Utah hosts second annual Startup Launchpad,0,0.0285,0.1697,0,hard,startup ecosystem
+Transfer deadline day: Record low deals completed on quiet day,0,0.0558,0.1438,0,easy,Premier League transfer
+"RBI MPC meeting: 7 key takeaways on repo rate, inflation, growth and more",0,0.0598,0.0435,0,easy,RBI repo rate
+Punch-drunk Delhi Capitals face RCB test after short turnaround IPL 2026,0,0.0516,0.0276,0,hard,Delhi Capitals
+"Cricket Stats - Delhi Capitals vs Punjab Kings, Indian Premier League 2026, 35th Match Cricket Insights",0,0.0191,0.0204,0,hard,Delhi Capitals
+"Artemis II Crew Arrives at Launch Site, Shares Moon Mascot",0,0.0293,0.0429,0,adjacent,NASA launch
+Controversial Anaheim Hills housing project gets the green light,0,0.7769,0.8864,0,hard,"""green light"" project"
+"Global sugar prices crash as Brazil surplus shakes markets, India stays steady: ICRA",0,0.0694,0.3752,0,adjacent,mandi prices
+Oil prices rise more than 2% as US and Iran extend talks,0,0.0021,0.0218,0,adjacent,oil prices
+Flat6Labs and IFC Launch StartAlgeria to Strengthen Startup Ecosystem in Algeria,0,0.0021,0.046,0,hard,startup ecosystem
+Fuel prices rise again: Petrol and diesel up around 90 paise in second hike in a week,0,0.0424,0.1707,0,adjacent,petrol diesel price hike
+"UFC Fight Night: Adesanya vs Pyfer Results | Prelim Winners, Highlights & Interviews From Seattle",0,0.0136,0.0124,0,hard,Climate Pledge Arena
+Why Most Vitamins Are a Waste of Money (Do This Instead!),0,0.0983,0.0575,0,hard,"""waste of money"""
+Food and Consumer Affairs Minister launches Version 4.0 Price Monitoring System (PMS) Mobile App,0,0.0258,0.1955,0,adjacent,mandi prices
+"Pride and unease: US Winter Olympians navigate politics, patriotism and Trump attacks",0,0.1462,0.4498,0,hard,"""political climate"""
+Delhi Capitals bank on Starc fillip to arrest slide RR vs DC IPL 2026,0,0.0046,0.0137,0,hard,Delhi Capitals
+NEWS |Beyond Tariffs and the Middle East Situation: Returning to Sustainable Growth,0,0.6224,0.5228,0,hard,"""sustainable growth"" earnings"
+Honda Activa e Price in Mandi,0,0.1182,0.304,0,adjacent,mandi prices
+Bajaj Pulsar NS400Z [2024-2026] Price in Mandi Gobindgarh,0,0.0185,0.0224,0,adjacent,mandi prices
+How the UAE's departure from OPEC could impact oil markets,0,0.2528,0.6785,0,adjacent,OPEC
+The Polsky Center Collaborates with the India Deep Tech Alliance to Launch the India Deep Tech Accelerator,0,0.1792,0.1175,0,hard,startup ecosystem
+Remote work and AI shift Hawaii from a tech talent exporter to a startup hub - Pacific Business News,0,0.0054,0.0887,0,hard,startup ecosystem
+The Beef Industry Has a Message for Consumers: Get Used to High Prices,0,0.2992,0.5291,0,adjacent,cattle prices
+Ghaziabad Plans Rs 3.77 Billion Infrastructure Overhaul,0,0.4628,0.4321,0,positive,"""CPCB pollution"""
+New Mexico Angels appoints new president as startup ecosystem draws national attention,0,0.0516,0.1118,0,hard,startup ecosystem
+"Massive Lehigh Valley Town Center project awaiting PennDOT's green light, Jaindls say",0,0.7023,0.8535,0,hard,"""green light"" project"
+DC's home disadvantage,0,0.0158,0.007,0,hard,Delhi Capitals
+IPL 2026 KKR vs DC | Delhi Capitals undone by inconsistencies and missed moments: Badani,0,0.0365,0.0254,0,hard,Delhi Capitals
+"From The Athletic: If the Carolina Hurricanes go on to win the Stanley Cup, Jordan Staal’s stomach-sliding winner will become one of those immortal franchise images.",0,0.0207,0.0798,0,hard,Carolina Hurricanes
+Beef prices hit record in May as screwworm impact looms,0,0.1697,0.1038,0,adjacent,cattle prices
+FirstHoldCo hits ₦3.4trn Gross Earnings despite 79% Profit crash,0,0.0283,0.0626,0,hard,"""sustainable growth"" earnings"
+Falling commodity prices expected to boost profits of FMCG companies,0,0.0904,0.2177,0,adjacent,mandi prices
+CARTA board to meet after council gives green light for Ladson fairground land acquisition,0,0.4319,0.3959,0,hard,"""green light"" project"
+The Minnesota Wild Go Big As They Go Home For Game 6,0,0.0472,0.108,0,hard,Minnesota Wild
+Will The RBI Cut Repo Rate On August 6,0,0.0922,0.0613,0,easy,RBI repo rate
+Trivago sees revenue growth in Q4 for first time since 2023,0,0.1198,0.2333,0,hard,"""sustainable growth"" earnings"
+Entergy recognized as Civic 50 Honoree for the 10th consecutive year,0,0.1505,0.0422,0,adjacent,employee volunteering
+Green Light for Waterfront Hotel,0,0.8898,0.8733,1,hard,"""green light"" project"
+"Petrol, diesel prices hiked by 87-91 paise; third time since May 15",0,0.0069,0.0562,0,adjacent,petrol diesel price hike
+Morning Skate Wrap Up: Wild at Stars,0,0.1118,0.151,0,hard,Minnesota Wild
+"Bakra Mandi Rates 2026: Goat Prices Surge Ahead Of Bakrid In Delhi, Mumbai, Hyderabad, Kolkata",0,0.0933,0.2064,0,adjacent,mandi prices
+Oil Prices Jump After U.S. Strikes Iran Over Downed Apache,0,0.0018,0.0137,0,adjacent,oil prices
+Fan Appreciation Night pres. by Amazon | Seattle Kraken,0,0.0917,0.1221,0,hard,Climate Pledge Arena
+What CEE Startups Need More Than Money,0,0.0223,0.1471,0,hard,startup ecosystem
+"Tiger Woods has been charged with driving under the influence after being involved in car crash in Jupiter Island, Florida",0,0.2339,0.2122,0,hard,Tiger Woods
+RBI Governor Sanjay Malhotra to Announce 1st MPC Decision Amid Rate Cut Speculation | Akashvani News,0,0.0044,0.0204,0,easy,RBI repo rate
+Rezang La: Bollywood film 120 Bahadur spotlights a forgotten battle from 1962 India-China war,0,0.4173,0.5433,0,easy,Bollywood
+"How Bollywood Actors Invest Their Money: Shah Rukh Khan, Deepika Padukone, Alia Bhatt & More",0,0.0346,0.1186,0,easy,Bollywood
+"NASA Sets Coverage for Ocean, Atmosphere, Climate Mission",0,0.8832,0.8442,1,adjacent,NASA launch
+'Shark Tank' Star Kevin O’Leary Says ‘Huge Weddings’ Are a ‘Waste of Money’ — Here’s Why,0,0.0155,0.0585,0,hard,"""waste of money"""
+Top Premier League players available on a free transfer this summer,0,0.0571,0.049,0,easy,Premier League transfer
+"NFL scores: Denver Broncos clinch No 1 seed in AFC, Carolina Panthers seal playoff return and Jacksonville Jaguars win division",0,0.0134,0.0513,0,easy,NFL scores
+$91M East Side apartment development gets green light,0,0.3546,0.6901,0,hard,"""green light"" project"
+Transfer Deadline Day: All the deals that did and didn’t happen,0,0.0127,0.0342,0,easy,Premier League transfer
+Interior Announces New Energy Agreement to Strengthen American Energy Security and Lower Costs,0,0.2273,0.4318,0,positive,"""offshore wind"""
+The Premier League stars who could still move this transfer window,0,0.0589,0.0551,0,easy,Premier League transfer
+Slugfests in Seattle: UFC returns to Climate Pledge Arena for an unforgettable Fight Night,0,0.5873,0.4123,0,hard,Climate Pledge Arena
+Starbucks Reports Q4 Full Fiscal Year 2025 Results,0,0.0148,0.0595,0,hard,"""sustainable growth"" earnings"
+"Two hikes in 5 days: How petrol, diesel prices surged across India; check latest rate in your city now",0,0.0765,0.2476,0,adjacent,petrol diesel price hike
+Baltimore Ravens 20-37 Kansas City Chiefs,0,0.3227,0.8029,0,easy,NFL scores
+"Petrol, diesel prices raised by over Rs 2, fourth hike in less than two weeks",0,0.0055,0.0488,0,adjacent,petrol diesel price hike
+Why Tiger Woods decided to not enter The British Open,0,0.3778,0.0933,0,hard,Tiger Woods
+UAE to leave OPEC and OPEC+ oil producer groups,0,0.2896,0.3086,0,adjacent,OPEC
+Minnesota Wild vs Dallas Stars: Game 5 Live Stream: How to Watch NHL,0,0.0086,0.0234,0,hard,Minnesota Wild
+Bodycam shows a stunned Tiger Woods handcuffed after a Florida rollover crash,0,0.1382,0.0342,0,hard,Tiger Woods
+Rising star shows off pop potency at sold-out arena concert in Seattle,0,0.0324,0.0303,0,hard,Climate Pledge Arena
+Launch Pad Preparations Progress Ahead of Artemis II Wet Dress Rehearsal,0,0.5157,0.3408,0,adjacent,NASA launch
+Social media's role in fueling extremism and misinformation,0,0.1459,0.2025,0,hard,"""political climate"""
+Carolina Hurricanes coming to Greensboro for preseason game,0,0.1413,0.141,0,hard,Carolina Hurricanes
+Tomato price fallen over 22 per cent in a month,0,0.0244,0.2434,0,adjacent,mandi prices
+Designing a culture of giving,0,0.2048,0.2456,0,adjacent,employee volunteering
+8 Indian colleges that served as cinematic backdrops for Bollywood movies,0,0.1453,0.0367,0,easy,Bollywood
+"Wild 5-2 Stars (Apr 30, 2026) Game Recap",0,0.0248,0.0385,0,hard,Minnesota Wild
+"Petrol, diesel prices hiked again: Fuel rates rise nearly ₹4/litre in 5 days | India News",0,0.0475,0.1253,0,adjacent,petrol diesel price hike
+Wild after Game 3 win over Avalanche: 'We're back in it',0,0.087,0.0878,0,hard,Minnesota Wild
+MINNESOTA WILD SIGNS DEFENSEMAN BEN DEXHEIMER AND FORWARD RIEGER LORENZ TO ENTRY-LEVEL CONTRACTS,0,0.1371,0.3543,0,hard,Minnesota Wild
+A new type of ‘football’ scores big in Germany: how an OHIO partnership is helping amplify the American sport overseas,0,0.1032,0.1857,0,easy,NFL scores
+Beef prices are at record highs. A looming flesh-eating parasite invasion could make it worse,0,0.1156,0.2497,0,adjacent,cattle prices
+"High supply leads to dip in potato prices, farmers struggle to recover cost",0,0.287,0.2836,0,adjacent,mandi prices
+Crude oil prices fell in 2025 amid oversupply,0,0.0226,0.0226,0,adjacent,oil prices
+MN Wild Nearing Deal with ‘One of Us’ Wisconsin Captain,0,0.3606,0.1388,0,hard,Minnesota Wild
+1 Dream Transfer for Every Premier League Team During the 2026 Summer Transfer Window,0,0.0402,0.0349,0,easy,Premier League transfer
+"Americans say politically motivated violence is increasing, and they see many reasons why",0,0.0805,0.1931,0,hard,"""political climate"""
+Report: Tiger Woods to again miss all four major championships,0,0.2925,0.1941,0,hard,Tiger Woods
+Football transfer rumours: Chelsea to swoop for West Ham’s Lucas Paquetá?,0,0.0509,0.1051,0,easy,Premier League transfer
+NBCUniversal Employees Mark Volunteer Month 2026 with Company-wide Acts of Service,0,0.0124,0.0235,0,adjacent,employee volunteering
+"Arizona, Akron take Climate Pledge Arena’s floor for NCAA March Madness 1st round in Seattle",0,0.4942,0.1546,0,hard,Climate Pledge Arena
+"First HoldCo posts N3.4trn earnings, profit slides on balance sheet cleanup",0,0.4592,0.1296,0,hard,"""sustainable growth"" earnings"
+We launched our Volunteer Days at PwC,0,0.0406,0.0567,0,adjacent,employee volunteering
+A Definitive Ranking of Minnesota Wild Rally Towels,0,0.1898,0.2152,0,hard,Minnesota Wild
+"Petrol, diesel prices hiked third time in eight days; latest by about 90 paise",0,0.0182,0.1468,0,adjacent,petrol diesel price hike
+4 Birmingham startups making tech moves + headlines right now,0,0.0283,0.16,0,hard,startup ecosystem
+"Tiger Woods registered for U.S Senior Open, not listed in early field",0,0.1545,0.1349,0,hard,Tiger Woods
+India to impose 30% import duty on yellow peas to support domestic prices,0,0.2469,0.2597,0,adjacent,mandi prices
+Bollywood Just Proved Indian Dressing Is The Only Dressing That Matters,0,0.2894,0.2626,0,easy,Bollywood
+The 100 Best Bollywood Movies of All Time,0,0.0498,0.0352,0,easy,Bollywood
+NASA Releases Artemis II Moon Mission Launch Countdown,0,0.0422,0.0458,0,adjacent,NASA launch
+Artemis II Crew Enters Quarantine Ahead of March Launch Opportunity,0,0.0562,0.1161,0,adjacent,NASA launch
+Miami again ranks in top 25 in the world in Startup Genome’s GSER ranking,0,0.0096,0.232,0,hard,startup ecosystem
+Brexit Hangover: How Populism Continues to Shape Britain’s Politics and Foreign Policy,0,0.743,0.8381,0,hard,"""political climate"""
+Ukrainian democracy is proving its resilience in wartime conditions,0,0.6776,0.8654,0,hard,"""political climate"""
+RBI to hold Monetary Policy Committee Meeting today,0,0.2127,0.5063,0,easy,RBI repo rate
+How Bollywood Is Changing: The corporatisation of film production,0,0.6062,0.6116,0,easy,Bollywood
+Disney Receives Green Light for 12.5-Acre Expansion of Walt Disney Imagineering Offices Near Magic Kingdom,0,0.2914,0.3814,0,hard,"""green light"" project"
+EIA updates its definitions and estimates of OPEC crude oil production capacity,0,0.5007,0.1337,0,adjacent,OPEC
+Libyan Business Council organises debate on startup ecosystem and venture capital,0,0.0027,0.0434,0,hard,startup ecosystem
+NASA’s SpaceX Crew-12 Launches,0,0.0209,0.0264,0,adjacent,NASA launch
+Employees go “All In” for good: Igniting passion and purpose for community impact,0,0.2198,0.1063,0,adjacent,employee volunteering
+Oil prices plunge and shares jump on US-Iran ceasefire plan,0,0.0051,0.0161,0,adjacent,oil prices
+"Hormuz closure cuts OPEC oil production by 30% and threatens demand growth this year, cartel says",0,0.2031,0.11,0,adjacent,OPEC
+Ranking all 33 Premier League transfers in the 2026 winter window from worst to best,0,0.0534,0.0333,0,easy,Premier League transfer
+High Yield vs. Sustainable Growth: Why AbbVie's Dividend Beats Pfizer's Despite the Lower Payout,0,0.1332,0.0951,0,hard,"""sustainable growth"" earnings"
+"NASA’s INCUS Mission on Road to Launch, Study Storms From Space",0,0.2224,0.0809,0,adjacent,NASA launch
+"NASA to Rollback Artemis II Rocket, Spacecraft",0,0.0856,0.0749,0,adjacent,NASA launch
+Oil prices fall and shares jump after US-Iran deal announced,0,0.0003,0.0057,0,adjacent,oil prices
+Peso Pluma to kick off U.S. tour at Seattle's Climate Pledge Arena,0,0.4826,0.3644,0,hard,Climate Pledge Arena
+EXCLUSIVE | What Is Hurting Bollywood? Industry Experts Share Insights,0,0.4156,0.7359,0,easy,Bollywood
+"Petrol, diesel and CNG prices rise again across India",0,0.0595,0.1261,0,adjacent,petrol diesel price hike
+RBI MPC keeps repo rate unchanged at 5.25%,0,0.0763,0.0308,0,easy,RBI repo rate
+This Is The Biggest Waste Of Money At Fast Food Chains (If You're Dining In),0,0.7744,0.467,0,hard,"""waste of money"""
+RBI keeps repo rate unchanged at 5.25%: What it means for real estate sector,0,0.1878,0.2644,0,easy,RBI repo rate
+Bollywood milks India nationalism for box-office success,0,0.0772,0.0134,0,easy,Bollywood
+NASA may be 1 month away from historic Artemis 2 astronaut launch around the moon,0,0.0091,0.0572,0,adjacent,NASA launch
+"Bill would establish grooming a child by a school employee, volunteer as a felony",0,0.086,0.1001,0,adjacent,employee volunteering
+Can Riley Heidt Follow Hunter Haight's Blueprint Next Season?,0,0.124,0.1762,0,hard,Minnesota Wild
+RBI repo rate at 5.25%: Save up to Rs 14 lakh on Rs 75 lakh home loan EMI,0,0.1228,0.051,0,easy,RBI repo rate
+Haitian Flavouring Interim Results Shine: All-encompassing Culinary Solutions Drive Sustainable Growth,0,0.3582,0.4849,0,hard,"""sustainable growth"" earnings"
+Costco's Membership Fees Rise 14%: Sustainable Growth or Peak?,0,0.4525,0.8082,0,hard,"""sustainable growth"" earnings"
+United Arab Emirates quits OPEC as Iran war raises Gulf tensions,0,0.0212,0.0198,0,adjacent,OPEC
+"Hurricanes’ Jarvis has shoulder surgery, faces several months for recovery, team says",0,0.0199,0.1898,0,hard,Carolina Hurricanes
+‘Big Four’ meatpackers under fire as beef prices soar,0,0.0085,0.0393,0,adjacent,cattle prices
+Lungi Ngidi injury: Why Delhi Capitals picked Vipraj Nigam over Dushmantha Chameera as concussion substitute,0,0.1333,0.0968,0,hard,Delhi Capitals
+From the Q4 Earnings Call: Driving Sustainable Growth Through Durable Differentiation,0,0.4614,0.4319,0,hard,"""sustainable growth"" earnings"
+Seattle Kraken ownership to submit bid for NBA expansion franchise,0,0.0458,0.0392,0,hard,Climate Pledge Arena
+How bad was Delhi Capitals' defeat against RCB? Explained in numbers,0,0.3737,0.429,0,hard,Delhi Capitals
+"NFL Week 10 picks: Upset and score predictions, matchup breakdowns for every game",0,0.0194,0.1331,0,easy,NFL scores
+Projected Lineup: Wild vs. Ducks | Minnesota Wild,0,0.2081,0.0688,0,hard,Minnesota Wild
+Carolina Hurricanes celebrate their Stanley Cup win throughout Raleigh,0,0.0144,0.024,0,hard,Carolina Hurricanes
+"Fuel prices in Jaipur rise again: Petrol up 96 paise, diesel 91 paise; third increase in just 9 days",0,0.0443,0.254,0,adjacent,petrol diesel price hike
+Purina Employees Volunteer Across Dozens of US Communities to Celebrate 25th Annual Purina Cares Day,0,0.7119,0.3954,0,adjacent,employee volunteering
+Beef Demand – The Key to Cattle Prices,0,0.0185,0.2822,0,adjacent,cattle prices
+"Petrol, Diesel price hiked today (May 25): From Delhi to Hyderabad, check complete list of costliest and c",0,0.0127,0.0464,0,adjacent,petrol diesel price hike
+Cars are waste of money? Techie with Rs 1.2 lakh monthly salary warned by parents against buying first car,0,0.2109,0.1827,0,hard,"""waste of money"""
+The political climate in Avignon,0,0.9752,0.9406,1,hard,"""political climate"""
+Sriram Raghavan’s ‘Ikkis’ is just the kind of war drama we need in this fractured political climate,0,0.7187,0.4593,0,hard,"""political climate"""
+"Stop trying to ""future-proof"" your PC, it's a waste of money",0,0.139,0.203,0,hard,"""waste of money"""
+"IPL 2026: Delhi Capitals Rout Rajasthan Royals, stay in play-offs hunt",0,0.1488,0.0982,0,hard,Delhi Capitals
+Man Utd transfer news: Red Devils continuing to explore opportunities to add midfielder and forward to their ranks,0,0.0367,0.098,0,easy,Premier League transfer
+Iraq piles pressure on OPEC over quota dispute after UAE exit,0,0.0231,0.0515,0,adjacent,OPEC
+Why Patrick Kane Should Be On The Minnesota Wild's Radar,0,0.0853,0.1391,0,hard,Minnesota Wild
+UAE’s exit from OPEC+ reduced the group’s share of crude oil production and capacity,0,0.6486,0.14,0,adjacent,OPEC
+Miller wins Stanley Cup with Carolina Hurricanes,0,0.0217,0.0316,0,hard,Carolina Hurricanes
+Oil Prices Surge 3.7% as U.S.-Iran Standoff Triggers Higher 2026 Forecasts,0,0.0134,0.0282,0,adjacent,oil prices
+Recognizing employee volunteering: 2025 Force for Good Awards,0,0.1159,0.1862,0,adjacent,employee volunteering
+Oil Prices Post Biggest Monthly Surge in History,0,0.0138,0.0579,0,adjacent,oil prices
+Bengal’s violently charged political climate deepens as Abhishek Banerjee accuses BJP regime of targeting TMC workers after two deaths,0,0.4337,0.3986,0,hard,"""political climate"""
+Farm Action releases plan to lower beef prices by rebuilding U.S. cattle production,0,0.6004,0.8435,0,adjacent,cattle prices
+USDA Launches New Regenerative Pilot Program to Lower Farmer Production Costs and Advance MAHA Agenda,1,0.2793,0.4869,0,positive,"""regenerative farming"""
+How one farmer made regenerative agriculture pay off in 3 years,1,0.1934,0.1577,0,positive,"""regenerative farming"""
+"Tamil Nadu election 2026: Drinking water scarcity, accidents on highway the burning problems of Kulithalai constituency",1,0.7799,0.7231,0,positive,"""water scarcity"""
+Plaid Cymru leader Rhun ap Iorwerth abandons 2035 net zero pledge,1,0.9653,0.9698,1,positive,"""net zero pledge"""
+Report: Regenerative Farms Outperforming Conventional Approaches,1,0.7534,0.9066,0,positive,"""regenerative farming"""
+COP30: Latin American leaders set the tone for crucial climate summit,1,0.9076,0.8516,1,positive,"""climate summit"""
+Robust adaptation strategy for enhancing climate resilience in irrigated agriculture,1,0.9621,0.93,1,positive,"""climate adaptation"""
+Are India’s net zero targets and AI ambitions on a collision course?,1,0.9222,0.84,1,positive,"""net zero pledge"""
+Climate Adaptation Needs Financing (and More)!,1,0.9819,0.9303,1,positive,"""climate adaptation"""
+Stage 3 of GRAP activated in Delhi; know what’s allowed and what’s prohibited,1,0.4036,0.5646,0,positive,"""CPCB pollution"""
+"Offshore wind stop-work orders are costing consumers, delaying needed electricity",1,0.984,0.9724,1,positive,"""offshore wind"""
+The demands of young people went unfulfilled by the UN climate summit – mostly,1,0.5952,0.8348,0,positive,"""climate summit"""
+"Industries using cleaner tech, reducing pollution may face fewer regulations",1,0.9936,0.894,1,positive,"""CPCB pollution"""
+"The planet has entered an era of 'water bankruptcy,' according to new UN report",1,0.8242,0.7887,0,positive,"""groundwater depletion"""
+Brits face higher energy costs & pricier hols as huge cost of Net Zero revealed,1,0.9365,0.8896,1,positive,"""net zero pledge"""
+Community-led water conservation revives groundwater,1,0.9934,0.9363,1,positive,"""water scarcity"""
+Kettle Brand Launches Tater Tracker to Trace Potatoes to the Farm and Highlight Regenerative Farming,1,0.2155,0.4882,0,positive,"""regenerative farming"""
+Was COP29 in Azerbaijan a Failure?,1,0.1528,0.031,0,positive,"""climate summit"""
+COP30: UN climate talks fail to secure new fossil fuel promises,1,0.9384,0.8424,1,positive,"""climate summit"""
+Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020,1,0.83,0.9312,0,positive,"""biodiversity loss"""
+NAACP Sues xAI for Illegal Pollution from Data Center Power Plant,1,0.9938,0.8932,1,positive,"""Clean Air Act"""
+Energy tax credits save Floridians more than $845 million,1,0.9094,0.9353,1,positive,"""clean energy tax credit"""
+WASAG - The Global Framework on Water Scarcity in Agriculture,1,0.9849,0.9614,1,positive,"""water scarcity"""
+"With court relief, work resumes on Virginia offshore wind",1,0.9033,0.8948,1,positive,"""offshore wind"""
+High resolution US water table depth estimates reveal quantity of accessible groundwater,1,0.9404,0.8588,1,positive,"""groundwater depletion"""
+EPA Launches Clean Air Act Resource for Data Centers,1,0.8589,0.9069,0,positive,"""Clean Air Act"""
+Legislators from 30 States Urge EPA to Retain Clean Air Protections for Pyrolysis,1,0.8205,0.6885,0,positive,"""Clean Air Act"""
+A Local Approach to Reversing Biodiversity Loss in Europe,1,0.6271,0.8144,0,positive,"""biodiversity loss"""
+Trump administration claims offshore wind poses a threat. But it won't say how.,1,0.9136,0.8899,1,positive,"""offshore wind"""
+ADM partners with pet food brand to scale regenerative agriculture,1,0.5956,0.8874,0,positive,"""regenerative farming"""
+"Parliamentary panel flags groundwater depletion, contamination in Punjab",1,0.9064,0.9404,1,positive,"""groundwater depletion"""
+"If Trump’s EPA abandons climate policy, could California take over on greenhouse gases?",1,0.9968,0.9539,1,positive,"""Clean Air Act"""
+The Clean Air Act Needs a Regulatory Face-Lift,1,0.8038,0.8739,0,positive,"""Clean Air Act"""
+Water scarcity hits premium townships across Indore,1,0.9294,0.9758,1,positive,"""water scarcity"""
+Google deletes net-zero pledge from sustainability website,1,0.9947,0.9505,1,positive,"""net zero pledge"""
+How Has Purina Reached its Regenerative Agriculture Target?,1,0.665,0.9093,0,positive,"""regenerative farming"""
+Unlocking Clean Energy Incentives for Underserved Communities,1,0.9998,0.9897,1,positive,"""clean energy tax credit"""
+Miliband says the war has vindicated his net zero pledge. He’s wrong,1,0.9109,0.8297,1,positive,"""net zero pledge"""
+From IRA to OBBBA: A New Era for Clean Energy Tax Credits,1,0.997,0.9544,1,positive,"""clean energy tax credit"""
+Can Financial Tools Save Biodiversity? A New Review Says “Not So Fast”,1,0.1237,0.1923,0,positive,"""biodiversity loss"""
+Rooted Resilience: How Rural Women Are Leading India’s Locally Led Adaptation Movement,1,0.734,0.8614,0,positive,"""climate adaptation"""
+"Vietnam, Indonesia launch new regulations for forest carbon projects",1,0.9558,0.8875,1,positive,"""carbon credits"""
+Kemi Badenoch attacked for ‘killing growth’ after axeing Tory net-zero pledge,1,0.8636,0.8654,0,positive,"""net zero pledge"""
+Administration Finalizes Regulations on Clean Energy Tax Credit Transfers,1,0.9795,0.9527,1,positive,"""clean energy tax credit"""
+The World Is Running Out of Fresh Water. What Happens If We Do?,1,0.7272,0.5048,0,positive,"""groundwater depletion"""
+Afro-descendant lands in South America contribute to biodiversity conservation and climate change mitigation,1,0.9991,0.9706,1,positive,"""biodiversity loss"""
+Pause on Virginia offshore wind farm cost Dominion more than $200M — but turbines will power up soon,1,0.9866,0.9114,1,positive,"""offshore wind"""
+Arizona AG secures $11M settlement with Minnesota dairy company over groundwater depletion,1,0.0366,0.0652,0,positive,"""groundwater depletion"""
+Durham County Council votes to scrap net zero pledge,1,0.9443,0.9362,1,positive,"""net zero pledge"""
+Here Is Every Ford And Lincoln Eligible For Used Tax Credit,1,0.4759,0.7088,0,positive,"""clean energy tax credit"""
+Ethiopia to be approved as host for COP32 climate summit in 2027,1,0.8582,0.6876,0,positive,"""climate summit"""
+Ruslan Edelgeriyev took part in Belém Climate Summit,1,0.9038,0.9328,1,positive,"""climate summit"""
+"SANTE - Waste not, want not! The EU sets new targets to reduce food waste by 2030",1,0.994,0.9236,1,positive,"""waste of money"""
+"Southwest in a ‘mega-drying’ zone due to groundwater loss, study finds",1,0.9258,0.8713,1,positive,"""groundwater depletion"""
+Is groundwater India’s biggest invisible employer?,1,0.5262,0.9004,0,positive,"""groundwater depletion"""
+Adaptation planning for business: Strategies that work,1,0.1278,0.1371,0,positive,"""climate adaptation"""
+"For the first time, California growers have to say how much groundwater they’re taking",1,0.4596,0.3004,0,positive,"""groundwater depletion"""
+"As Biodiversity Loss Grows, Rome Talks Urge Nations to Step Up Action",1,0.4782,0.2794,0,positive,"""biodiversity loss"""
+Zimbabwe forest carbon megaproject generated millions of junk credits,1,0.985,0.9296,1,positive,"""carbon credits"""
+How regenerative agriculture can help farms and the planet thrive,1,0.8675,0.689,0,positive,"""regenerative farming"""
+Google retreats from 2030 net-zero goal as AI data centers drive soaring energy use,1,0.9946,0.9171,1,positive,"""net zero pledge"""
+"Severe water scarcity hits Thiruvanthapuram, Peppara reservoir level plunges",1,0.8153,0.965,0,positive,"""water scarcity"""
+Suing the administration to stop cancer-causing air pollution,1,0.9327,0.932,1,positive,"""Clean Air Act"""
+'Holding back progress Australia-wide': WA's greenhouse gas emissions surge again,1,0.9824,0.97,1,positive,"""net zero pledge"""
+Why declining aquifers in Colorado matter,1,0.6215,0.6603,0,positive,"""groundwater depletion"""
+10 new insights in climate science 2025/2026,1,0.9034,0.7184,1,positive,"""groundwater depletion"""
+From pilots to practice: a new bid to scale regenerative agriculture,1,0.1832,0.4948,0,positive,"""regenerative farming"""
+Study: Kilimanjaro's exploding human population linked to massive biodiversity loss,1,0.729,0.9205,0,positive,"""biodiversity loss"""
+From Organic to Regenerative,1,0.3877,0.5726,0,positive,"""regenerative farming"""
+What the ExxonMobil case means for clean air in Texas and beyond,1,0.4986,0.7297,0,positive,"""Clean Air Act"""
+World enters era of ‘global water bankruptcy’,1,0.7772,0.9471,0,positive,"""water scarcity"""
+"Moody’s: water scarcity matters, but unpreparedness is the real credit risk",1,0.948,0.9353,1,positive,"""water scarcity"""
+New England’s Offshore Wind Solution,1,0.9996,0.9961,1,positive,"""offshore wind"""
+Tory energy chief declines to say when Net Zero pledge might be met,1,0.9782,0.8378,1,positive,"""net zero pledge"""
+Combatting Biodiversity Loss with Habitat Heroes,1,0.5365,0.7888,0,positive,"""biodiversity loss"""
+HSBC helped oil and gas industry raise $47bn despite net-zero pledge,1,0.9615,0.9162,1,positive,"""net zero pledge"""
+EPA says Deere can’t cite Clean Air Act to limit farm equipment repairs,1,0.9312,0.9246,1,positive,"""Clean Air Act"""
+AI-driven weather forecasts for climate adaptation in India,1,0.995,0.9361,1,positive,"""climate adaptation"""
+Biodiversity loss is changing what mosquitoes bite,1,0.2395,0.3475,0,positive,"""biodiversity loss"""
+Environment Subcommittee: From Gridlock to Growth: Permitting Reform Under the Clean Air Act,1,0.9657,0.9206,1,positive,"""Clean Air Act"""
+Climate adaptation provides private investment opportunities,1,0.6362,0.7085,0,positive,"""climate adaptation"""
+More than mitigation: The role of forests in climate adaptation,1,0.9905,0.936,1,positive,"""climate adaptation"""
+UN warns of global water bankruptcy as AI data centers strain groundwater,1,0.9164,0.9066,1,positive,"""groundwater depletion"""
+Substantially lower estimates in China’s offshore wind potential using farm-scale spatial modeling and wake effects,1,0.9845,0.957,1,positive,"""offshore wind"""
+"Court rules with State, clears way for offshore wind substation critical to Delaware’s energy future",1,0.9936,0.9427,1,positive,"""offshore wind"""
+What is the International Day for Biological Diversity – and why is it important?,1,0.1483,0.2144,0,positive,"""biodiversity loss"""
+DTE Energy ordered to pay $100M for Clean Air Act violations at Zug Island facility,1,0.9921,0.8796,1,positive,"""Clean Air Act"""
+Why Trump’s $2 billion buyoff to cancel offshore wind farms is a bad deal for taxpayers and the energy supply,1,0.995,0.9143,1,positive,"""offshore wind"""
+Amazon stays ‘stubborn’ on net-zero pledge,1,0.9788,0.9516,1,positive,"""net zero pledge"""
+EPA to scrap lifesaving soot pollution limit,1,0.9981,0.9862,1,positive,"""Clean Air Act"""
+America’s Rural South Is Paying the Price for Europe’s Energy,1,0.4473,0.8038,0,positive,"""clean energy tax credit"""
+Advancing adaptation: Mapping costs from cooling to coastal defenses,1,0.6386,0.8227,0,positive,"""climate adaptation"""
+Greece allocates €75.5 million for water scarcity projects across the country,1,0.9611,0.877,1,positive,"""water scarcity"""
+"Trump Administration Announces $1B Deal to Stop Offshore Wind, Threatening Affordable Power at Critical Moment",1,0.907,0.8898,1,positive,"""offshore wind"""
+Can we celebrate Kumbh while ignoring the health of its rivers?,1,0.4679,0.6716,0,positive,"""CPCB pollution"""
+"Unlock savings: Tax credits available to businesses, nonprofits for clean energy upgrades",1,0.9461,0.975,1,positive,"""clean energy tax credit"""
+"India played leadership role at U.N. COP30 climate summit, achieved all major goals: Bhupender Yadav",1,0.9693,0.8548,1,positive,"""climate summit"""
+"Beyond water scarcity: Efficiency, conservation and Delhi’s path forward",1,0.9948,0.9618,1,positive,"""water scarcity"""
+PetroChina joins world’s top producers in industry vow to reach net zero by 2050,1,0.9841,0.9452,1,positive,"""net zero pledge"""
+Duchy of Cornwall partners with Regenified to boost regenerative farming ambitions across estate,1,0.7985,0.7518,0,positive,"""regenerative farming"""
+"India has “withdrawn” its candidature to host COP33 in 2028, an offer made by PM Modi on the sidelines of COP28 in Dubai",1,0.64,0.3999,0,positive,"""climate summit"""
+Why adaptation finance is moving up the climate finance agenda — and how financial institutions can engage at COP30,1,0.9959,0.9149,1,positive,"""climate adaptation"""
+Prince William champions regenerative farming during Devon visit,1,0.2307,0.816,0,positive,"""regenerative farming"""
+"Report: As AI electricity demands soar, Microsoft weighs retreat from ambitious carbon-free energy pledge",1,0.9709,0.8811,1,positive,"""net zero pledge"""
+Securing fresh water for a livable planet,1,0.9553,0.8418,1,positive,"""water scarcity"""
+“House of cards”: Verra used junk carbon credits to fix Shell’s offsetting scandal,1,0.8684,0.851,0,positive,"""carbon credits"""
+USDA’s finalized rule could boost adoption of regenerative farming practices,1,0.8289,0.9365,0,positive,"""regenerative farming"""
+'A lot of fighting': Fossil fuel row breaks out at UN climate summit,1,0.9481,0.8866,1,positive,"""climate summit"""
+"Dominion Energy resumes work on offshore wind project, remains on schedule",1,0.9951,0.9775,1,positive,"""offshore wind"""
+"OBSERVER: The 9th Edition of the Copernicus Ocean State Report warns that climate change, biodiversity loss, and pollution currently affect all ocean basins",1,0.9993,0.9553,1,positive,"""biodiversity loss"""
+What’s New - Inflation Reduction Act Final PWA Regulations Published,1,0.945,0.8895,1,positive,"""clean energy tax credit"""
+What Is Biodiversity — and Why the Amazon Needs Us to Protect It,1,0.7491,0.603,0,positive,"""biodiversity loss"""
+House Passes Major Cuts to IRA Clean Energy Tax Credit Provisions,1,0.9669,0.9311,1,positive,"""clean energy tax credit"""
+[Blog] Fair finance is the missing link to Africa’s climate goals,1,0.9832,0.9121,1,positive,"""climate summit"""
+"AQI below 200 ‘a good day’, says environment minister; contradicts CPCB’s pollution risk classification",1,0.9432,0.7685,1,positive,"""CPCB pollution"""
+COP30 in Brazil: Key Advances and Global Commitments,1,0.8292,0.8985,0,positive,"""climate summit"""
+Tamil Nadu farmers learn to thrive despite water scarcity,1,0.716,0.7639,0,positive,"""water scarcity"""
+Carbon credits have enabled vital protection of tropical forests—despite being oversold 10-fold,1,0.9861,0.8919,1,positive,"""carbon credits"""
+‘Beyond COP’ climate summit puts scientists at the centre of the action,1,0.9859,0.9305,1,positive,"""climate summit"""
+Trump administration cites national security as it halts offshore wind. Some experts aren’t convinced,1,0.9354,0.8923,1,positive,"""offshore wind"""
+How marine restoration can help manage biodiversity loss,1,0.9888,0.9431,1,positive,"""biodiversity loss"""
+Depleting aquifers necessitate new groundwater regulations,1,0.4944,0.4686,0,positive,"""groundwater depletion"""
+"100-ft-wide sinkholes creating agriculture crisis in Türkiye: 684 land subsiding identified so far, what's ...",1,0.7909,0.8263,0,positive,"""groundwater depletion"""
+"Seasonal water scarcity conditions for European river basin sub-units (sub-basins) for the four quarters of 2023, as measured by water exploitation index plus (WEI+)",1,0.9015,0.5636,1,positive,"""water scarcity"""
+COMMENTARY: Europe's offshore wind pact is a hedge against US gas reliance,1,0.9676,0.9602,1,positive,"""offshore wind"""
+Inflation Reduction Act Guidance: IRS and Treasury Release Proposed Regulations on the New Tech-Neutral Clean Energy Tax Credits | Thought Leadership | June 2024,1,0.9735,0.889,1,positive,"""clean energy tax credit"""
+Can COP30 mark a turning point for climate adaptation?,1,0.9642,0.9094,1,positive,"""climate adaptation"""
+Natural Climate Solution Carbon Credits: The Role of Jurisdictional REDD+ Programs,1,0.9992,0.9638,1,positive,"""carbon credits"""
+"Delaware Supreme Court upholds permit for offshore wind farm, dealing a blow to 'local control'",1,0.9112,0.8774,1,positive,"""offshore wind"""
+AIIB Prices Inaugural EUR 3-Year Benchmark and AUD Climate Adaptation Bond,1,0.4424,0.5586,0,positive,"""climate adaptation"""
+PM Modi inaugurates south India natural farming exhibition in Coimbatore,1,0.7535,0.3139,0,positive,"""regenerative farming"""
+The Risks of Geoengineering on Biodiversity,1,0.2901,0.7402,0,positive,"""biodiversity loss"""
+Research recommends several legal reforms to preserve groundwater in southwest,1,0.6407,0.5828,0,positive,"""groundwater depletion"""
+Explained: Why India says coal will remain in the energy mix till 2050 despite net zero pledge,1,0.9945,0.9217,1,positive,"""net zero pledge"""
+PepsiCo and Soil Capital join forces to regenerate rapeseed farming across Europe,1,0.6594,0.8083,0,positive,"""regenerative farming"""
+Turkiye to host COP31 climate summit after Australia concedes bid,1,0.9228,0.8327,1,positive,"""climate summit"""
+Duke Energy takes nearly $130 million to kill its wind project,1,0.9869,0.924,1,positive,"""offshore wind"""
+U.S. Department of Agriculture unveils $700 million for regenerative agriculture,1,0.3343,0.2935,0,positive,"""regenerative farming"""
+"Facing a Hostile Administration, U.S. Offshore Wind Is in Retreat",1,0.9849,0.9308,1,positive,"""offshore wind"""
+Water Scarcity in Iran: Strategic and Geopolitical Consequences,1,0.8423,0.6671,0,positive,"""groundwater depletion"""
+Hilly villages trap runoff to tackle water scarcity amid plenty,1,0.7746,0.9409,0,positive,"""water scarcity"""
+Tropical biodiversity loss from land-use change is severely underestimated by local-scale assessments,1,0.9755,0.9561,1,positive,"""biodiversity loss"""
+Transforming Indian agriculture: Policy reforms for climate resilience and sustainability,1,0.9984,0.9639,1,positive,"""regenerative farming"""
+State and Trends of Climate Adaptation Finance in Small Island Developing States,1,0.9906,0.9447,1,positive,"""climate adaptation"""
+Bipartisan lawmakers propose biofuel tax extension,1,0.3327,0.8598,0,positive,"""clean energy tax credit"""
+Reunion facilitates over $1.6 billion in clean energy tax credit transfers in 2024,1,0.9574,0.8847,1,positive,"""clean energy tax credit"""
+Increasing extreme winds challenge offshore wind energy resilience,1,0.9989,0.9944,1,positive,"""offshore wind"""
+India withdraws its offer to host the UN climate summit (COP33) in 2028,1,0.9856,0.9206,1,positive,"""climate summit"""
+Cumulative hydrodynamic impacts of offshore wind farms on North Sea currents and surface temperatures,1,0.9938,0.9693,1,positive,"""offshore wind"""
+Secret talks: Littleproud and Liberals try to hash out way forward on net zero,1,0.4854,0.4684,0,positive,"""net zero pledge"""
+Asia faces $200 billion annual climate adaptation financing gap: Report,1,0.9922,0.8898,1,positive,"""climate adaptation"""
+"COP30 Just Transition: A mechanism with no map, no money, and no manual",1,0.3823,0.6923,0,positive,"""climate summit"""
+Malaysia going nuclear explained,1,0.0637,0.484,0,positive,"""net zero pledge"""
+Watershed Change Under Pumping: A Case Study of the Bertrand Creek Watershed,1,0.8993,0.9104,1,positive,"""groundwater depletion"""
+Beyond sinking sand: How housing markets respond to an environmental hazard in Mexico City,1,0.9669,0.9133,1,positive,"""groundwater depletion"""
+Charger Data Transparency: Curing Range Anxiety and Powering Electric Vehicle Adoption,1,0.7472,0.5507,0,positive,"""EV adoption emissions"""
+Five key issues at the UN climate summit in Brazil – and why they matter to you and the planet,1,0.9659,0.6112,1,positive,"""climate summit"""
+Satellite study reveals 24.2 billion ton annual groundwater loss in High Mountain Asia,1,0.5448,0.4144,0,positive,"""groundwater depletion"""
+"In rural Arizona, groundwater worries are inviting hard conversations",1,0.3934,0.6766,0,positive,"""groundwater depletion"""
+Kiggans and Colleagues Issue Joint Statement on Clean Energy Tax Credit Reform,1,0.9795,0.9288,1,positive,"""clean energy tax credit"""
+Reframing Net Zero: Nuclear’s role in protecting biodiversity,1,0.9838,0.9796,1,positive,"""biodiversity loss"""
+"Groundwater depletion in Hyderabad: HMWSSB steps up supply, cracks down on misuse",1,0.7702,0.5752,0,positive,"""groundwater depletion"""
+Judge Hands Trump a Fifth Loss in His Effort to Halt Offshore Wind Projects,1,0.9661,0.8997,1,positive,"""offshore wind"""
+EPA Extends Comment Period on Proposal to Maintain Current Rules on Crude Oil and Natural Gas Facility Emissions,1,0.6304,0.2014,0,positive,"""Clean Air Act"""
+What happened at COP30? 4 science take-homes from the climate summit,1,0.9784,0.8841,1,positive,"""climate summit"""
+FAO Launches WatNEX Engine to Strengthen Nexus-Based Decision-Making,1,0.012,0.1381,0,positive,"""water scarcity"""
+What’s at stake in the COP30 negotiations?,1,0.67,0.8695,0,positive,"""climate summit"""
+'Climate gaslighting': How fossil fuel giants have quietly abandoned their net zero pledges,1,0.967,0.9398,1,positive,"""net zero pledge"""
+Water scarcity could undercut U.S. lithium mining,1,0.8092,0.8654,0,positive,"""water scarcity"""
+Living through scarcity: One family’s fight for water,1,0.5827,0.8239,0,positive,"""water scarcity"""
+Climate adaptation and resilience: The opportunity awaiting South-East Asia,1,0.9539,0.9024,1,positive,"""climate adaptation"""
+"Kellanova, Walmart and Indigo Ag Partner to Advance Farmer Prosperity in Arkansas through Regenerative Agriculture",1,0.1066,0.226,0,positive,"""regenerative farming"""
+Atlantic Transmission Study | Wind Research,1,0.9904,0.987,1,positive,"""offshore wind"""
+Biodiversity Risks and Opportunities in Asia Pacific,1,0.7594,0.8763,0,positive,"""biodiversity loss"""
+COP30: Nations agree climate deal without fossil fuel plan,1,0.9983,0.9513,1,positive,"""climate summit"""
+"Clean Energy Tax Credits for Churches, Synagogues and Mosques",1,0.9948,0.9867,1,positive,"""clean energy tax credit"""
+The Latest Sustainability Trend in Plant-Based Milk? Regenerative Farming,1,0.9633,0.8933,1,positive,"""regenerative farming"""
+Wildfarmed’s Andy Cato: ‘Regenerative farming isn’t idealism – it’s inevitable’,1,0.5106,0.7581,0,positive,"""regenerative farming"""
+"Blue Carbon Market Size, Market Forecast and Outlook By FMI",1,0.9229,0.9056,1,positive,"""carbon credits"""
+"‘Suicidal’ model of capitalism leading to war and fascism, climate summit told",1,0.8868,0.7711,1,positive,"""climate summit"""
+"Business-as-usual: Donors pour climate adaptation finance into big infrastructure, neglecting local needs",1,0.8797,0.8706,0,positive,"""climate adaptation"""
+"Clean Air Act reform bills may be on the move: Mostly good, one bad",1,0.6892,0.6477,0,positive,"""Clean Air Act"""
+U.S. EPA repeals landmark finding that underpins public health and climate regulations,1,0.9781,0.8053,1,positive,"""Clean Air Act"""
+"India’s Water Crisis Is About Power, Not Just Scarcity",1,0.9887,0.919,1,positive,"""water scarcity"""
+Biodiversity loss 'threat to security',1,0.3889,0.6665,0,positive,"""biodiversity loss"""
+Frontiers in Science: Halting and reversing biodiversity loss by 2030 critical to avoid disastrous effects on human well-being,1,0.8684,0.8234,0,positive,"""biodiversity loss"""
+Regenerative Agriculture: General Mills's Sweet Corn Supply,1,0.3401,0.2754,0,positive,"""regenerative farming"""
+Lawsuit Launched Over Clean Air Act Violations at TVA’s Cumberland Plants,1,0.89,0.8839,1,positive,"""Clean Air Act"""
+Adaptation through Water: Scaling Private Sector Finance for Climate Adaptation in Southeast Asia,1,0.9967,0.962,1,positive,"""climate adaptation"""
+Restoring land with wildlife & earning carbon credits in the Kalahari Desert,1,0.9982,0.9561,1,positive,"""carbon credits"""
+Mike Lee bill would gut citizen enforcement of the Clean Air Act,1,0.9657,0.9163,1,positive,"""Clean Air Act"""
+"Planning board gives green light to 2,400-acre Lancaster County solar farm",1,0.8431,0.2711,0,positive,"""green light"" project"
+Australian Government To Reviews EV Tax Benefits After Three Years | EV Incentives Update 2025,1,0.5686,0.4168,0,positive,"""EV adoption emissions"""
+"Occidental Petroleum’s Net-Zero Strategy is a ‘License to Pollute,’ Critics Say",1,0.9683,0.9118,1,positive,"""net zero pledge"""
+Meet an organic food startup with Indigenous roots,1,0.2068,0.705,0,positive,"""regenerative farming"""
+NASA Satellites Reveal Aquifer Decline in Brazilian Breadbasket,1,0.0771,0.4331,0,positive,"""groundwater depletion"""
+Can carbon credits wean the power sector off coal dependency?,1,0.9981,0.96,1,positive,"""carbon credits"""
+Species loss in key habitats accelerates regional food web disruption,1,0.8166,0.8213,0,positive,"""biodiversity loss"""
+"A circular economy framework to mitigate water scarcity and river pollution in Delhi, India",1,1.0,0.9791,1,positive,"""water scarcity"""
+Global loss of mountain vegetated landscapes and its impact on biodiversity conservation,1,0.9734,0.7542,1,positive,"""biodiversity loss"""
+New Clean Energy Tax Credit Rules Transfer Deal Risks to Buyers,1,0.9561,0.9336,1,positive,"""clean energy tax credit"""
+Critical thresholds for co-benefits of carbon accumulation and biodiversity conservation under global nitrogen enrichment,1,0.9944,0.9311,1,positive,"""biodiversity loss"""
+Concentration Trends in the Nature-Based Carbon Market,1,0.9919,0.9181,1,positive,"""carbon credits"""
+"World might have set itself an unachievable nature target, says former UK negotiator",1,0.6107,0.3219,0,positive,"""biodiversity loss"""
+Here's what's happening with the federal pause on Dominion Energy's offshore wind farm in Virginia Beach,1,0.9558,0.9055,1,positive,"""offshore wind"""
+IRS warns of clean energy tax credit scam,1,0.9894,0.964,1,positive,"""clean energy tax credit"""
+Can we bend the curve: Trends in global biodiversity scenarios,1,0.255,0.6092,0,positive,"""biodiversity loss"""
+Veolia and SBM Offshore join forces to combat global water scarcity with innovative floating desalination solution,1,0.9895,0.9478,1,positive,"""water scarcity"""
+Cleaning up Birmingham’s air,1,0.5888,0.8981,0,positive,"""Clean Air Act"""
+New Commerce resources aid access to federal clean energy funds,1,0.9339,0.9311,1,positive,"""clean energy tax credit"""
+Woodside dramatically expands oil and gas exploration spend despite net zero pledge,1,0.8358,0.8525,0,positive,"""net zero pledge"""
+Q&A: Clean Air Act author on Trump’s EPA,1,0.9775,0.9313,1,positive,"""Clean Air Act"""
+Not all carbon credits are created equal,1,0.9643,0.9133,1,positive,"""carbon credits"""
+Delhi Continues To Breathe Toxic Air As AQI 'Severe' At 413,1,0.88,0.8846,0,positive,"""CPCB pollution"""
+Report raises alarm on diminishing groundwater in the Colorado River Basin,1,0.9564,0.8863,1,positive,"""groundwater depletion"""
+Everyone want carbon credits: What really is it and why is it needed?,1,0.8399,0.6213,0,positive,"""carbon credits"""
+The EU Mission on Adaptation to Climate Change publishes its 2025/26 Activity Report,1,0.9981,0.9457,1,positive,"""climate adaptation"""
+'Unaffordable' net zero targets scrapped by council,1,0.9407,0.9601,1,positive,"""net zero pledge"""
+DTE Energy ordered to pay $100 million for Clean Air Act violation at Detroit-area facility,1,0.9676,0.696,1,positive,"""Clean Air Act"""
+Environment Subcommittee Advances Clean Air Act Permitting Bills to Full Committee,1,0.92,0.9005,1,positive,"""Clean Air Act"""
+Can India's carbon credits help green farming?,1,0.9998,0.9845,1,positive,"""carbon credits"""
+Making money from methane emission reductions in paddy fields,1,0.7417,0.6396,0,positive,"""carbon credits"""
+"Regenerative Agriculture: Potentials, Limits, and Opportunities for Sustainable Food Systems",1,0.9829,0.9556,1,positive,"""regenerative farming"""
+Inflation Reduction Act Guidance: IRS and Treasury Release Final Regulations on Prevailing Wage and Apprenticeship Requirements | Thought Leadership | June 2024,1,0.305,0.4423,0,positive,"""clean energy tax credit"""
+Tackling water challenges in Thailand: FAO and ONWR launch water tenure assessment in Prasae River basin,1,0.9803,0.9344,1,positive,"""water scarcity"""
+Environmental Body Urges Odisha CM To Tighten Control On Groundwater Extraction,1,0.8432,0.5027,0,positive,"""groundwater depletion"""
+"EU carbon credits could supercharge world’s clean cooking push, France says",1,0.9951,0.9432,1,positive,"""carbon credits"""
+Trump has hindered offshore wind while China and other countries invest heavily,1,0.9935,0.9716,1,positive,"""offshore wind"""
+Soaring expectations met with sinking outcomes at climate summit,1,0.9627,0.8835,1,positive,"""climate summit"""
+BWSSB chairperson directs officials to prepare for possible water scarcity in Bengaluru,1,0.5549,0.8384,0,positive,"""water scarcity"""
+"In Brazil, regenerative farming advances, but deforestation still pressures ecosystems",1,0.9583,0.8865,1,positive,"""regenerative farming"""
+"Buy, Sell, Confuse: The Carbon Credit Game Show across borders",1,0.8968,0.6985,1,positive,"""carbon credits"""
+FAO and NABARD collaborate to advance climate-resilient agriculture through innovative finance and carbon markets,1,0.9958,0.9582,1,positive,"""carbon credits"""
+"Texas Solar Panel Incentives: Rebates, Tax Credits, Financing and More",1,0.9703,0.891,1,positive,"""clean energy tax credit"""
+Nature-positive business should be everyone's bottom line,1,0.0102,0.0479,0,positive,"""biodiversity loss"""
+There is a gendered dimension to water,1,0.6567,0.915,0,positive,"""water scarcity"""
+Digital intelligence and forensics prevent biodiversity loss | NATURE-FIRST Project | Results in Brief | HORIZON,1,0.5048,0.3626,0,positive,"""biodiversity loss"""
+L-G Vinai Kumar Saxena launches Sindhu Jal Samriddhi Abhiyan to address seasonal water scarcity in Ladakh.,1,0.4303,0.6938,0,positive,"""water scarcity"""
+Cultivating regenerative aquaculture: a conceptual framework based on a review of regenerative food systems literature,1,0.7433,0.6561,0,positive,"""regenerative farming"""
+Protesters force their way into Cop30 climate summit – video,1,0.7683,0.7778,0,positive,"""climate summit"""
+"Out of the frying pan, into the cookstove: Too many carbon credits enter UN carbon market",1,0.9983,0.9434,1,positive,"""carbon credits"""
+Carbon Credits and Environmental Markets in Saudi Arabia,1,0.9961,0.9481,1,positive,"""carbon credits"""
+EPA Launches Clean Air Act Resource Hub for Data Center Developers,1,0.5839,0.7878,0,positive,"""Clean Air Act"""
+Morrisons becomes first UK supermarket to delay net zero targets,1,0.8776,0.8971,0,positive,"""net zero pledge"""
+‘Resilience starts with farmers’: ADM invests in regenerative farming to secure more reliable soybean supply in India,1,0.9199,0.847,1,positive,"""regenerative farming"""
+Bill to ease clean air rules for prescribed fire clears House,1,0.3787,0.4299,0,positive,"""Clean Air Act"""
+SBTi Opens a New Pathway for Carbon Credits,1,0.9543,0.9067,1,positive,"""carbon credits"""
+UN’s first Paris Agreement carbon credits face human rights and climate concerns,1,0.9984,0.9304,1,positive,"""carbon credits"""
+Addressing India’s Water Crisis,1,0.9899,0.988,1,positive,"""water scarcity"""
+EPA rollbacks push the South toward dirtier air and higher health risks,1,0.72,0.8909,0,positive,"""Clean Air Act"""
+What is climate resilience?,1,0.9768,0.9616,1,positive,"""climate adaptation"""
+From Growing Interest to Action: What Is Shaping Corporate Uptake of Biodiversity Credits?,1,0.8271,0.8873,0,positive,"""carbon credits"""
+From Awareness to Action: Sector-Based Biodiversity Risk in Investments,1,0.4056,0.83,0,positive,"""biodiversity loss"""
+How Ed Miliband’s latest net zero pledge could affect you,1,0.9552,0.946,1,positive,"""net zero pledge"""
+Clean Energy Tax Credit Transferability Rules Finalized,1,0.9936,0.9836,1,positive,"""clean energy tax credit"""
+Climate Adaptation Means Building Social Infrastructure (SSIR),1,0.9337,0.9312,1,positive,"""climate adaptation"""
+ISEP's responds to UK government's 5th round of climate adaptation reporting,1,0.9648,0.9392,1,positive,"""climate adaptation"""
+Amazon opens carbon credit offtakes to Climate Pledge signatories and other partners,1,0.9976,0.9463,1,positive,"""net zero pledge"""
+Tokyo: Nurturing technologies for climate adaptation,1,0.974,0.9745,1,positive,"""climate adaptation"""
+Widening the Lens: Scaling Climate Adaptation and Resilience Through Sustainable Finance,1,0.9983,0.9721,1,positive,"""climate adaptation"""
+Ralph Lauren ditches 2040 net zero for ‘rolling’ 5-year targets,1,0.9371,0.9552,1,positive,"""net zero pledge"""
+Mosquitoes’ thirst for human blood has increased as biodiversity loss worsens,1,0.5256,0.7811,0,positive,"""biodiversity loss"""
+Trading carbon credits for human rights: Does Article 6.4 of the Paris Agreement protect indigenous peoples and local communities?,1,0.9956,0.8952,1,positive,"""carbon credits"""
+COP30 Week 1: Recap,1,0.4999,0.2693,0,positive,"""climate summit"""
+Urbanization and habitat loss: an overview of rapidly growing cities in Saudi Arabia,1,0.7421,0.7838,0,positive,"""biodiversity loss"""
+Why tackling water scarcity requires a rethink on technology investment,1,0.4102,0.6961,0,positive,"""water scarcity"""
+EPA clarifies Clean Air Act to support farmers’ equipment repairs,1,0.9747,0.9556,1,positive,"""Clean Air Act"""
+"Delhi Weather Today: IMD issues yellow alert for dense fog, flights disrupted, AQI stays high. Check lates",1,0.356,0.8528,0,positive,"""CPCB pollution"""
+Over 100 US leaders to attend Cop30 climate summit as Trump stays away,1,0.9334,0.6883,1,positive,"""climate summit"""
+IRS and Treasury Final Regulations on Elective Pay for Clean Energy Tax Incentives Detail New Definitions and Special Rules While Addressing Concerns,1,0.9543,0.7914,1,positive,"""clean energy tax credit"""
+The macroeconomic case for investing in climate adaptation,1,0.9466,0.9266,1,positive,"""climate adaptation"""
+The EU’s return to international carbon credits,1,0.9796,0.9271,1,positive,"""carbon credits"""
+Serious about sustainability? A history of HSBC’s climate commitments,1,0.978,0.9328,1,positive,"""net zero pledge"""
+Serbia to enable carbon credits trading,1,0.9964,0.9731,1,positive,"""carbon credits"""
+U.S. clean energy tax credit market to reach $25 billion in 2024,1,0.9781,0.9044,1,positive,"""clean energy tax credit"""
+The Water Shortage Has Become Iran’s Greatest Crisis,1,0.6526,0.8891,0,positive,"""groundwater depletion"""
+Thousands march in Brazil town hosting COP30 for climate justice,1,0.9474,0.9051,1,positive,"""climate summit"""
+United States: TotalEnergies Signs Agreements with U.S. Department of Interior to End its U.S. Offshore Wind Projects,1,0.8706,0.7918,0,positive,"""offshore wind"""
+How Beijing Restored its Aquifer and Reversed its Groundwater Depletion,1,0.7845,0.9237,0,positive,"""groundwater depletion"""
+Why Hong Kong’s Biodiversity Is Dwindling,1,0.8253,0.8265,0,positive,"""biodiversity loss"""
+Canadian pension plan drops 2050 net-zero pledge and avoids rigid targets,1,0.9099,0.9241,1,positive,"""net zero pledge"""
+Permission to Poison? Hundreds of companies ask for exemptions to the Clean Air Act,1,0.9762,0.901,1,positive,"""Clean Air Act"""
+Businesses must take responsibility for biodiversity loss – for their sake as much as ours,1,0.1923,0.3686,0,positive,"""biodiversity loss"""
+"Cryosphere crisis: glaciers, water scarcity, and a race to adapt in the Himalaya",1,0.9727,0.9211,1,positive,"""water scarcity"""
+"Here’s Why Regenerative Farming Is a Risk Management Story, Not an ESG Story",1,0.6194,0.5522,0,positive,"""regenerative farming"""
+Snohomish County PUD taps CETCAP for clean energy tax credit support,1,0.9897,0.9735,1,positive,"""clean energy tax credit"""
+"Delhi air quality worsens, remains 'poor'; IMD issues alert for rain, snow",1,0.9779,0.9644,1,positive,"""CPCB pollution"""
+NC offshore wind project canceled as $1B deal shifts investment to fossil fuels,1,0.9698,0.9375,1,positive,"""offshore wind"""
+A Journey of Life: The Story of a Yemeni Woman’s Resilience in the Face of Water Scarcity,1,0.677,0.8358,0,positive,"""water scarcity"""
+How Will Drought and Groundwater Depletion Affect Irrigated Farmland Values in the Tenth District?,1,0.8045,0.5423,0,positive,"""groundwater depletion"""
+Canada’s Biggest Banks Join Wall Street-Led Exodus From Climate Alliance,1,0.8441,0.9153,0,positive,"""net zero pledge"""
+Farm of the Future: McCain Foods’ Lesson in British Regenerative Farming,1,0.9333,0.7666,1,positive,"""regenerative farming"""
+India’s digital thirst: Data centres are rising in water-scarce regions — and locals are paying the price,1,0.354,0.6504,0,positive,"""water scarcity"""
+Six ways technology perfects carbon trading,1,0.9052,0.8633,1,positive,"""carbon credits"""
+Arresting India’s Groundwater Depletion to Avert Water Bankruptcy,1,0.8145,0.9282,0,positive,"""groundwater depletion"""
+"By saving ecosystems, environmental regulations help prevent biodiversity loss",1,0.9535,0.9187,1,positive,"""biodiversity loss"""
+A Boon for Biogas: Treasury’s Final Section 48 ITC Rules Resolve Key Concerns for Biogas and RNG Projects,1,0.4531,0.4625,0,positive,"""clean energy tax credit"""
+The Untapped Potential of ‘Repurposed Energy’,1,0.6545,0.9643,0,positive,"""clean energy tax credit"""
+The Great Lakes are ideal for wind energy. So where is it?,1,0.9695,0.9063,1,positive,"""offshore wind"""
+How Regenerative Agriculture Is Transforming Indian Farming and Climate Action,1,0.9922,0.958,1,positive,"""regenerative farming"""
+Effects of Biodiversity Loss on Freshwater Ecosystem Functions Increase With the Number of Stressors,1,0.3686,0.5497,0,positive,"""biodiversity loss"""
+‘Nationals-lite’: former Liberal president says party would be ‘rewarding standover tactics’ if net zero dumped,1,0.561,0.7148,0,positive,"""net zero pledge"""
+Halfway to 2030: What the Biodiversity Finance Dashboard Reveals,1,0.8458,0.9315,0,positive,"""biodiversity loss"""
+Why some regions are winning the fight against groundwater depletion,1,0.7507,0.765,0,positive,"""groundwater depletion"""
+21 EVs to lose tax credit eligibility in 2024,1,0.8286,0.7841,0,positive,"""clean energy tax credit"""
+Biodiversity Loss Raises Risks to Global Public Health,1,0.8615,0.9034,0,positive,"""biodiversity loss"""
+A model tribal school in Maharashtra battles water scarcity to fight migration,1,0.8157,0.6761,0,positive,"""water scarcity"""
+"Winter Smog Chokes Odisha, Talcher Emerges As India’s Most Polluted Place",1,0.8929,0.7802,1,positive,"""CPCB pollution"""
+Leaving coal behind: international carbon credits under the EU’s 2040 climate target,1,0.9997,0.959,1,positive,"""carbon credits"""
+Dominion produces first power from Coastal Virginia Offshore Wind project,1,0.9965,0.9816,1,positive,"""offshore wind"""
+Alleviating water scarcity by alternative cropping systems in the North China Plain,1,0.9863,0.9452,1,positive,"""water scarcity"""
+Amanda Holden and Alan Carr ‘took 28 flights’ for BBC show despite net zero pledge,1,0.7327,0.7353,0,positive,"""net zero pledge"""
+What to know about Ed Miliband’s latest push for net zero,1,0.7801,0.791,0,positive,"""net zero pledge"""
+The Trump Administration’s Attack on Offshore Wind Threatens To Raise Electricity Prices for Millions of Americans,1,0.7569,0.8017,0,positive,"""offshore wind"""
+"Why declining aquifers, like the crucial Denver Basin, matter as much as our rivers (Opinion)",1,0.3969,0.4377,0,positive,"""groundwater depletion"""
+The role of offshore wind and solar PV resources in global low-carbon transition,1,0.9995,0.9695,1,positive,"""offshore wind"""
+Virginia Beach offshore wind farm has started producing electricity,1,0.9827,0.9732,1,positive,"""offshore wind"""
+Cop30: five reasons the UN climate conference failed to deliver on its ‘people’s summit’ promise,1,0.9263,0.9073,1,positive,"""climate summit"""
+Climate adaptation policies in Central Asia overlook mental health - Scientific Reports,1,0.9016,0.7431,1,positive,"""climate adaptation"""
+"Hyderabad More Polluted Than Bengaluru, Chennai",1,0.363,0.2705,0,positive,"""CPCB pollution"""
+Clean Energy Tax Credit Changes under the One Big Beautiful Bill Act,1,0.9284,0.8717,1,positive,"""clean energy tax credit"""
+Türkiye: New climate summit host must advance climate justice advocacy,1,0.9838,0.9143,1,positive,"""climate summit"""
+The climate adaptation and resilience opportunity in Southeast Asia,1,0.9687,0.9165,1,positive,"""climate adaptation"""
+Building Optimism: Lessons from Climate Adaptation in 2025,1,0.9464,0.9491,1,positive,"""climate adaptation"""
+"EPA asks court to strike down fine particulate air pollution standard, threatening public health and undermining obligation under Clean Air Act",1,0.9727,0.8255,1,positive,"""Clean Air Act"""
+FAO steps up efforts to address water scarcity and strengthen climate resiliency in Kyrgyzstan’s mountains,1,0.988,0.9471,1,positive,"""water scarcity"""
+Beyond the buzz: analyzing actors promoting regenerative agriculture in Europe,1,0.2207,0.8481,0,positive,"""regenerative farming"""
+States and Supporting Partners Join IATA’s Alliance to Expand CORSIA Carbon Credit Supply,1,0.9804,0.8731,1,positive,"""carbon credits"""
+From carbon credits to community resilience: Key takeaways from Session 1 of the “NAbSA Wednesdays of Finance” webinar series,1,0.964,0.8643,1,positive,"""carbon credits"""
+Two decades of climate cropping patterns and groundwater change in semi-arid northwestern India,1,0.9941,0.9317,1,positive,"""groundwater depletion"""
+Hastie rebukes Liberals ‘living in Howard era’ as opposition weighs net zero rebrand,1,0.8838,0.9313,1,positive,"""net zero pledge"""
+Could AI Be a Boon to Regenerative Agriculture?,1,0.1316,0.2491,0,positive,"""regenerative farming"""
+Western Lawmakers Move To Weaken Clean Air Act and Shield Fossil Fuel Companies From Climate Lawsuits,1,0.9968,0.9293,1,positive,"""Clean Air Act"""
+Scaling climate adaptation from policy to grassroots,1,0.9918,0.9489,1,positive,"""climate adaptation"""
+Varaha Issues The First Registry-Backed ERW Carbon Credits In Asia,1,0.9928,0.9308,1,positive,"""carbon credits"""
+Sierra Leone carbon market project demonstrates more equitable benefit sharing is possible,1,0.8627,0.8916,0,positive,"""carbon credits"""
+New collaboration to scale up oyster reef development at offshore wind farms in the North Sea,1,0.9978,0.9469,1,positive,"""offshore wind"""
+"In Thailand, the future of farming is regenerative",1,0.8396,0.7457,0,positive,"""regenerative farming"""
+COP30 climate talks deadlocked amid fossil fuel rift,1,0.922,0.8699,1,positive,"""climate summit"""
+Labour council sends waste 400 miles away despite net zero pledge,1,0.9382,0.9252,1,positive,"""net zero pledge"""
+America’s offshore wind farms get back to work after court victories,1,0.9002,0.8465,1,positive,"""offshore wind"""
+Differences in government support for private sector climate change adaptation in developing versus developed countries | npj Climate Action,1,0.9978,0.9631,1,positive,"""climate adaptation"""
+COP30: The key results,1,0.1327,0.2495,0,positive,"""climate summit"""
+"Too Little, Too Late? Why India Must Fast-Track Its Net Zero Pledge",1,0.9652,0.9245,1,positive,"""net zero pledge"""
+Making Rice–Cultivation Water-Efficient and Sustainable for Haryana,1,0.9944,0.9398,1,positive,"""groundwater depletion"""
+Google relegates net-zero pledge as AI energy demands surge,1,0.9677,0.8928,1,positive,"""net zero pledge"""
+Ocean Winds delivers its first power from floating offshore wind project in France,1,0.9991,0.9605,1,positive,"""offshore wind"""
+Residential Clean Energy Credit Usage,1,0.9939,0.9915,1,positive,"""clean energy tax credit"""
+Advancing adaptation: How evolving hazards could shape the agenda,1,0.6323,0.8884,0,positive,"""climate adaptation"""
+Renewable Energy and Climate Adaptation E3.Nepal Model Handover to Policymakers and Regulators Capacity Building Workshop,1,0.999,0.9663,1,positive,"""climate adaptation"""
+Floating Offshore Wind Shot: Progress and Priorities,1,0.9934,0.9768,1,positive,"""offshore wind"""
+Punalur braces for seasonal water scarcity as summer sets in,1,0.7999,0.656,0,positive,"""water scarcity"""
+Biodiversity and the energy transition,1,0.943,0.9534,1,positive,"""biodiversity loss"""
+India at COP30: A Mismatch Between Grandstanding and Climate Action,1,0.9614,0.9358,1,positive,"""climate summit"""
+EPA moves to end climate regulations under Clean Air Act,1,0.9988,0.9672,1,positive,"""Clean Air Act"""
+Whitehouse Challenges Trump’s Unconstitutional Overreach in Exempting Limits on Hazardous Air Pollutants,1,0.604,0.7413,0,positive,"""Clean Air Act"""
+Regenerative farming 101: What to know if you’re making the switch,1,0.1121,0.0784,0,positive,"""regenerative farming"""
+Technical Explainer: Clean and Improved Cookstove Carbon Credits,1,0.9719,0.9447,1,positive,"""carbon credits"""
+CCC: England’s approach to climate adaptation is ‘not working’,1,0.97,0.9153,1,positive,"""climate adaptation"""
+"Sewage pollution of Cooum, groundwater depletion raise alarm",1,0.9864,0.9476,1,positive,"""groundwater depletion"""
+"CPCB, Punjab & Sikkim pollution boards pulled up over waste management",1,0.9988,0.9711,1,positive,"""CPCB pollution"""
+IISc report on groundwater depletion predicts water shortage in 65 wards this summer in Bengaluru,1,0.7458,0.5734,0,positive,"""groundwater depletion"""
+$2.5m boost for regenerative seaweed farming platform,1,0.4674,0.5275,0,positive,"""regenerative farming"""
+Work resumes on Coastal Virginia Offshore Wind project after court order ends federal pause,1,0.9599,0.9211,1,positive,"""offshore wind"""
+EXCLUSIVE: Ethiopia to host COP32 climate summit in 2027,1,0.7176,0.8228,0,positive,"""climate summit"""
+VetPartners in ‘ambitious’ 2045 net zero pledge,1,0.972,0.9819,1,positive,"""net zero pledge"""
+Carbon Credits: A New Income Stream for Rice Farmers via AWD,1,0.8139,0.6314,0,positive,"""carbon credits"""
+Running on sunshine but running out of water,1,0.7825,0.7278,0,positive,"""groundwater depletion"""
+Furious British farmers ‘fed up’ as M&S sets 100% regenerative agriculture target,1,0.4724,0.2519,0,positive,"""regenerative farming"""
+How can Indian carbon removal startups get a stamp of approval on their carbon credits?,1,0.8226,0.5672,0,positive,"""carbon credits"""
+Disinformation rife ahead of climate summit in Brazil,1,0.9897,0.952,1,positive,"""climate summit"""
+Mental health as both outcome and determinant in climate adaptation,1,0.8869,0.7256,1,positive,"""climate adaptation"""
+"Dominion upbeat on offshore wind as cost estimate eases, sales rise",1,0.9323,0.9324,1,positive,"""offshore wind"""
+Home Energy Tax Credit Usage,1,0.8472,0.9334,0,positive,"""clean energy tax credit"""
+Opening New Frontiers in the Evolving Carbon Credit Market Through a Full-Spectrum,1,0.5236,0.3368,0,positive,"""carbon credits"""
+He Helped Write the Clean Air Act. He Fears for Its Future.,1,0.5967,0.9003,0,positive,"""Clean Air Act"""
+What UN's warning on water scarcity means for India as demand outpaces supply,1,0.9816,0.8432,1,positive,"""water scarcity"""
+House subcommittee to discuss important Clean Air Act bills,1,0.4318,0.7066,0,positive,"""Clean Air Act"""
+New global study shows freshwater is disappearing at alarming rates,1,0.6259,0.5693,0,positive,"""groundwater depletion"""
+Thiruvananthapuram Corporation making all possible interventions to address drinking water scarcity: Mayor Rajesh,1,0.7886,0.8122,0,positive,"""water scarcity"""
+EXPLAINED: The Clean Energy Provisions in the “One Big Beautiful Bill.”,1,0.8049,0.7443,0,positive,"""clean energy tax credit"""
+Cop30 climate summit runs into overtime amid divisions over fossil fuels,1,0.9282,0.9073,1,positive,"""climate summit"""
+6 technologies to help the world adapt to climate change,1,0.9976,0.9795,1,positive,"""climate adaptation"""
+"Economic Survey 2026: ‘Development is, in itself, a form of adaptation’",1,0.1443,0.2181,0,positive,"""climate adaptation"""
+India’s transition to electric vehicles,1,0.9824,0.9694,1,positive,"""EV adoption emissions"""
+Equality in Action – Gender-Responsive Climate Adaptation Training Session,1,0.9444,0.8384,1,positive,"""climate adaptation"""
+What US clean energy tax credit types are available in 2025?,1,0.9718,0.9501,1,positive,"""clean energy tax credit"""
+Bending back the curve of shark and ray biodiversity loss,1,0.1711,0.1867,0,positive,"""biodiversity loss"""
+India Data Centers Explore Seawater Cooling Amid Water Scarcity,1,0.986,0.8891,1,positive,"""water scarcity"""
+Glacier grafting: How an Indigenous art is countering water scarcity,1,0.9753,0.9264,1,positive,"""water scarcity"""
+Trump executive order expands USDA regenerative ag program,1,0.2578,0.3514,0,positive,"""regenerative farming"""
+"Carbon offsets fail to cut global heating due to ‘intractable’ systemic problems, study says",1,0.9458,0.8892,1,positive,"""carbon credits"""
+How regenerative agriculture – and funding – is slowly taking root,1,0.2527,0.2834,0,positive,"""regenerative farming"""
+Injecting New Life into an Old Aquifer,1,0.3375,0.3848,0,positive,"""groundwater depletion"""
+Transforming air pollution management in India with AI and machine learning technologies,1,0.9542,0.771,1,positive,"""CPCB pollution"""
+"Rep. Clyde, Sen. Lee Introduce End EPA Abuse Act",1,0.6086,0.8162,0,positive,"""Clean Air Act"""
+UN report: Five charts which explain the ‘gap’ in finance for climate adaptation,1,0.9657,0.9229,1,positive,"""climate adaptation"""
+"U.S. EPA delays compliance of important methane regulations for oil and gas, which will exacerbate pollution, hinder climate progress, and undermine public health",1,0.9916,0.881,1,positive,"""Clean Air Act"""
+"Turkey set to host COP31 climate summit, Australia to lead government talks",1,0.9192,0.7907,1,positive,"""climate summit"""
+Proposition 4 Offshore Wind Port Development Program,1,0.994,0.9909,1,positive,"""offshore wind"""
+City boundaries for global urban water scarcity assessment,1,0.985,0.9786,1,positive,"""water scarcity"""
+Protecting Africa's wetlands is key to combating biodiversity loss,1,0.7479,0.8485,0,positive,"""biodiversity loss"""
+Active Battle Over the California Clean Air Act Waiver Continues,1,0.6878,0.8568,0,positive,"""Clean Air Act"""
+Register for global youth climate summit co-hosted by CU Boulder on June 5,1,0.9125,0.8552,1,positive,"""climate summit"""
+Big Banks and Asset Managers Abandon the Goal of Net Zero Carbon Emissions,1,0.9995,0.9755,1,positive,"""net zero pledge"""
+Advancing adaptation in Southeast Asia,1,0.8483,0.9489,0,positive,"""climate adaptation"""
+LGT Wealth Management boosts net zero pledge with firm's first UK chief sustainability officer,1,0.9952,0.9366,1,positive,"""net zero pledge"""
+Turkey will host the next UN climate summit – here’s how it plans to use its moment in the spotlight,1,0.9496,0.8701,1,positive,"""climate summit"""
+Nearly 700 massive sinkholes consume Turkey farmland fueled by extreme drought,1,0.7474,0.5058,0,positive,"""groundwater depletion"""
+Road to COP30: UN-regulated carbon market—the risks and opportunities for financial institutions,1,0.9797,0.8968,1,positive,"""carbon credits"""
+Rep. Castor: EPA’s Scheme to Gut the Clean Air Act “Endangerment Finding” Condemns Americans to a More Expensive and Dangerous World,1,0.9402,0.6468,1,positive,"""Clean Air Act"""
+Duke gives up offshore wind lease for ‘partial’ reimbursement under Interior deal,1,0.5956,0.8313,0,positive,"""offshore wind"""
+"Soaring US tax credit deals boost solar, storage build",1,0.8769,0.8375,0,positive,"""clean energy tax credit"""
+Governor Newsom blasts Trump administration’s proposal gutting climate and clean air protections as ‘negligence’,1,0.9361,0.819,1,positive,"""Clean Air Act"""
