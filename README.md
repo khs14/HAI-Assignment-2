@@ -1,6 +1,6 @@
 # Sustainability Headline Relevance Classifier
 
-A binary text classifier that decides whether a news headline is **relevant to environmental sustainability** (label `1`) or **not relevant** (label `0`). It is built entirely from scratch: no pretrained weights (no BERT, no GloVe) and no fine-tuning. The repository covers the full pipeline: collecting headlines from Google News RSS, training and evaluating two models, and running the saved model on new headlines.
+A binary text classifier that decides whether a news headline is **relevant to environmental sustainability** (label `1`) or **not relevant** (label `0`). It is built entirely from scratch: without pretrained weights or fine-tuning. The repository covers the full pipeline: collecting headlines from Google News RSS, training and evaluating two models, and running the saved model on new headlines.
 
 ## Label definition
 
