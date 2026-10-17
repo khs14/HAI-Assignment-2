@@ -4,12 +4,13 @@ A binary text classifier that decides whether a news headline is **relevant to e
 
 ## Label definition
 
-| Label | Name | Meaning |
-|---|---|---|
-| 1 | `relevant` | The headline's main subject is the environment, climate, or environmental sustainability (emissions, energy transition, pollution, waste and recycling, nature and conservation, environmental impact of business or policy). |
-| 0 | `not_relevant` | Everything else. This includes social topics (labor, DEI, human rights), governance, and pure market news (oil prices, EV stock moves) with no environmental angle. |
+| Label | Name           | Meaning                                                                                                                                                                                                                       |
+| ----- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | `relevant`     | The headline's main subject is the environment, climate, or environmental sustainability (emissions, energy transition, pollution, waste and recycling, nature and conservation, environmental impact of business or policy). |
+| 0     | `not_relevant` | Everything else. This includes social topics (labor, DEI, human rights), governance, and pure market news (oil prices, EV stock moves) with no environmental angle.                                                           |
 
 Negatives come in three kinds so the model has to learn the concept, not just keywords:
+
 - **Hard negatives:** the same words used in a different sense ("political climate", "Miami Heat", "clean sheet", "carbon fibre bike").
 - **Adjacent negatives:** nearby but non-environmental topics (executive pay, Tesla earnings, labor strikes).
 - **Easy negatives:** general news (sports, entertainment, finance, politics).
@@ -29,6 +30,7 @@ Negatives come in three kinds so the model has to learn the concept, not just ke
     ├── nn/                    # saved from-scratch neural net (weights.npz, vocab.json, config.json)
     └── eval/                  # metrics, test predictions and charts
 ```
+
 The cleaned training CSV (`small_combined_clean.csv`) is included. The held-out validation set is intentionally **not** published.
 
 ## Setup
@@ -42,33 +44,41 @@ pip install numpy scipy pandas scikit-learn matplotlib joblib requests
 ## Pipeline, in order
 
 ### 1. Collect the training data
+
 Queries Google News RSS (English, US and India) using a list of positive and negative keywords. Each keyword gets an equal share of the target, and the script moves to the next keyword once its quota is met.
 
 ```bash
 python collect_news.py --small --end-date 2026-06-30
 ```
+
 Writes `data_small/small_combined.csv` (about 3,000 rows per label). Useful options: `--dry-run` (show the plan without any requests), `--target-rows`, `--years`.
 
 ### 2. Check and clean the labels by hand
+
 Labels come from the search keyword, so some are wrong. Review the CSV and fix them before training. The file used for the results below is `small_combined_clean.csv`.
 
 ### 3. Build a held-out validation set
+
 A later time window, with every headline already used for training removed.
 
 ```bash
 python collect_news.py --validation
 ```
+
 Writes `data_validation/validation_participant.csv` (`id`, `title` only, safe to share with annotators) and `validation_ground_truth.csv` (keep private; review it by hand before use).
 
 ### 4. Train and evaluate
+
 Only the `title` and `label` columns are needed.
 
 ```bash
 python train_model.py --data small_combined_clean.csv --out model_out
 ```
+
 If the CSV also has a keyword column (`base_query` or `query`), the data is split **by keyword** (70/15/15), so the test set contains keywords the model never saw. Use `--split random` for an easier random split. The decision threshold is tuned on the validation split to reach a precision target (`--precision-target`, default 0.95).
 
 Outputs in `model_out/`:
+
 - `logreg/`, `nn/`: the saved models, and `model_card.json` (best model, thresholds, metrics)
 - `eval/`: `metrics.csv`, `test_predictions.csv`, and charts for the confusion matrix, ROC curve, precision-recall curve, score distribution, accuracy by tier and the neural net's training curve
 
@@ -89,6 +99,7 @@ clf = RelevanceClassifier.load("model_out")            # best model, tuned thres
 clf.predict(["Delhi AQI turns severe as stubble burning rises"])
 # [{'title': ..., 'score': 0.99, 'label': 1, 'label_name': 'relevant'}]
 ```
+
 Options: `RelevanceClassifier.load("model_out", model="nn")` selects the neural net, and `clf.predict(titles, threshold=0.5)` overrides the threshold. The neural net needs only `numpy` and `scipy` at inference time.
 
 ## Approach
@@ -96,8 +107,8 @@ Options: `RelevanceClassifier.load("model_out", model="nn")` selects the neural 
 1. **Data:** headlines are deduplicated, and any title that appears with both labels is dropped.
 2. **Features:** lowercase words and word pairs (bigrams) for the neural net; word and character n-gram TF-IDF for the baseline. Vocabularies are built from the training split only.
 3. **Models (both trained from random initialisation):**
-   - *TF-IDF + logistic regression* (scikit-learn), with the regularisation strength chosen on validation.
-   - *From-scratch neural net* written in NumPy with hand-coded backpropagation and the Adam optimiser. It averages learned word and bigram embeddings, passes them through a ReLU hidden layer, and outputs a probability. It uses dropout and random word dropout, and stops early on validation loss. The gradients were checked against numerical gradients.
+   - _TF-IDF + logistic regression_ (scikit-learn), with the regularisation strength chosen on validation.
+   - _From-scratch neural net_ written in NumPy with hand-coded backpropagation and the Adam optimiser. It averages learned word and bigram embeddings, passes them through a ReLU hidden layer, and outputs a probability. It uses dropout and random word dropout, and stops early on validation loss. The gradients were checked against numerical gradients.
 4. **Threshold:** because letting an irrelevant headline through is the costlier error, the threshold is tuned on validation to hit a precision target. Metrics are reported at both 0.5 and the tuned threshold.
 5. **Model choice:** the best model is selected by validation PR-AUC and recorded in `model_card.json`.
 
@@ -105,16 +116,16 @@ Options: `RelevanceClassifier.load("model_out", model="nn")` selects the neural 
 
 Evaluated on a held-out test set of 868 headlines whose keywords were **not seen in training**, which is a stricter test than a random split.
 
-| Model | Threshold | Accuracy | Precision | Recall | F1 | ROC-AUC |
-|---|---|---|---|---|---|---|
-| TF-IDF + logistic regression | 0.50 | 0.863 | 0.859 | 0.853 | 0.856 | 0.941 |
-| TF-IDF + logistic regression | 0.88 (tuned) | 0.786 | 0.949 | 0.582 | 0.722 | 0.941 |
-| From-scratch neural net | 0.50 | 0.873 | 0.852 | 0.889 | 0.870 | 0.936 |
-| From-scratch neural net | 0.83 (tuned) | 0.809 | 0.913 | 0.662 | 0.768 | 0.936 |
+| Model                        | Threshold    | Accuracy | Precision | Recall | F1    | ROC-AUC |
+| ---------------------------- | ------------ | -------- | --------- | ------ | ----- | ------- |
+| TF-IDF + logistic regression | 0.50         | 0.863    | 0.859     | 0.853  | 0.856 | 0.941   |
+| TF-IDF + logistic regression | 0.88 (tuned) | 0.786    | 0.949     | 0.582  | 0.722 | 0.941   |
+| From-scratch neural net      | 0.50         | 0.873    | 0.852     | 0.889  | 0.870 | 0.936   |
+| From-scratch neural net      | 0.83 (tuned) | 0.809    | 0.913     | 0.662  | 0.768 | 0.936   |
 
-![ROC curve](model_out/eval/roc_curve.png)
-![Precision-recall curve](model_out/eval/precision_recall_curve.png)
-![Confusion matrix, logistic regression](model_out/eval/confusion_matrix_logreg.png)
+![ROC curve](Model%20training/model_out/eval/roc_curve.png)
+![Precision-recall curve](Model%20training/model_out/eval/precision_recall_curve.png)
+![Confusion matrix, logistic regression](Model%20training/model_out/eval/confusion_matrix_logreg.png)
 
 More charts (neural-net confusion matrix, score distribution, accuracy by tier, training curve) are in `model_out/eval/`.
 
