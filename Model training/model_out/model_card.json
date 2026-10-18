@@ -21,7 +21,7 @@
     "logreg": {
       "kind": "logreg",
       "name": "TF-IDF + logistic regression",
-      "threshold": 0.8811461019053806,
+      "threshold": 0.8,
       "precision_target_reached_on_validation": true,
       "hyperparameters": {
         "C": 16

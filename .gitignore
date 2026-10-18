@@ -6,6 +6,9 @@ __pycache__/
 data_validation/
 validation_*.csv
 *ground_truth*
+study_eval*/
+study_dataset_submission.csv
+errors_to_tag.csv
 
 # Collection by-products (raw feeds and progress logs)
 data_small/
