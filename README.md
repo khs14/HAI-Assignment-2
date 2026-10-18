@@ -2,6 +2,8 @@
 
 A binary text classifier that decides whether a news headline is **relevant to environmental sustainability** (label `1`) or **not relevant** (label `0`). It is built entirely from scratch: no pretrained weights (no BERT, no GloVe) and no fine-tuning. The repository covers the full pipeline: collecting headlines from Google News RSS, training and evaluating two models, and running the saved model on new headlines.
 
+> **Scope and disclaimer.** All data (training and study set) is **English-language news headlines from the US and India editions of Google News**. The model has not been tested on other languages or on headlines from other regions, and its results should not be assumed to carry over to them: other countries use different place names, institutions, policies and phrasing that the model has never seen.
+
 ## Label definition
 
 | Label | Name           | Meaning                                                                                                                                                                                                                       |
