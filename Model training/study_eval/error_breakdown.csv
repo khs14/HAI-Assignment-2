@@ -1,0 +1,29 @@
+dimension,group,n,errors,error_rate_pct,share_of_all_errors_pct
+tier,adjacent,46,0,0.0,0.0
+tier,easy,44,0,0.0,0.0
+tier,hard,68,2,2.9,3.8
+tier,positive,140,50,35.7,96.2
+region,IN,143,22,15.4,42.3
+region,US,155,30,19.4,57.7
+model_confident,confident (score <=0.2 or >=0.8),241,18,7.5,34.6
+model_confident,uncertain (0.2-0.8),57,34,59.6,65.4
+keyword,"""National Green Tribunal""",2,2,100.0,3.8
+keyword,"""air quality index""",2,2,100.0,3.8
+keyword,"""electric vehicle emissions""",2,2,100.0,3.8
+keyword,"""greenhouse gas emissions""",2,2,100.0,3.8
+keyword,"""groundwater depletion""",2,2,100.0,3.8
+keyword,"""EV adoption emissions""",1,1,100.0,1.9
+keyword,"""Paris Agreement US""",1,1,100.0,1.9
+keyword,"""carbon market""",1,1,100.0,1.9
+keyword,"""clean energy tax credit""",1,1,100.0,1.9
+keyword,"""climate risk disclosure""",1,1,100.0,1.9
+keyword,"""global warming""",1,1,100.0,1.9
+keyword,"""heatwave climate change""",1,1,100.0,1.9
+keyword,"""national parks conservation""",1,1,100.0,1.9
+keyword,eco-friendly product sale,1,1,100.0,1.9
+keyword,"""CPCB pollution""",2,1,50.0,1.9
+keyword,"""Clean Air Act""",2,1,50.0,1.9
+keyword,"""Delhi air pollution""",2,1,50.0,1.9
+keyword,"""Inflation Reduction Act clean energy""",2,1,50.0,1.9
+keyword,"""Western Ghats""",2,1,50.0,1.9
+keyword,"""air pollution""",2,1,50.0,1.9

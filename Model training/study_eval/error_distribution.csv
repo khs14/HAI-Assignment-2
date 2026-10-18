@@ -1,0 +1,5 @@
+error_type,pattern,errors,pct_of_all_errors,pct_of_error_type
+False negative,Environmental keyword present but scored low,31,59.6,62.0
+False negative,No obvious environmental keyword (implicit topic),16,30.8,32.0
+False negative,India-specific place or term without a common environmental word,3,5.8,6.0
+False positive,Ambiguous word used in a non-environmental sense,2,3.8,100.0

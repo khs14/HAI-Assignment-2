@@ -1,0 +1,299 @@
+﻿id,title,ground_truth,ground_truth_name,model_score,model_label,model_label_name,correct,tier,region,keyword,score_logreg,score_nn
+V001,Have Nottingham Forest lost their ’12th man’ at City Ground? And how can they get it back?,0,not_relevant,0.0295,0,not_relevant,1,hard,US,Nottingham Forest,0.0295,0.1119
+V002,Attorney General Ellison recovers $18.5 million in taxpayer dollars from Partners in Nutrition in civil settlement,0,not_relevant,0.0145,0,not_relevant,1,easy,US,lawsuit settlement,0.0145,0.0467
+V003,Opinion | California's clashes over business regulation rage on as legislative session nears end,0,not_relevant,0.0607,0,not_relevant,1,hard,IN,"""business climate""",0.0607,0.0822
+V004,Adani Group Unveils ₹1.5 Lakh Crore Clean Energy Investment Plan for Odisha,1,relevant,0.9569,1,relevant,1,positive,IN,"""India net zero 2070""",0.9569,0.9187
+V005,Jennifer Meyer speaks out on ex-husband Tobey Maguire officiating her wedding to Geoffrey Ogunlesi,0,not_relevant,0.0381,0,not_relevant,1,easy,US,celebrity wedding,0.0381,0.0268
+V006,"NEET PG 2026 Expected Result Timeline: Check Date, Time and Marks vs Rank Update",0,not_relevant,0.0033,0,not_relevant,1,easy,IN,board exam results,0.0033,0.0239
+V007,Station lists Heat games for free over-the-air coverage for Palm Beach television market,0,not_relevant,0.2162,0,not_relevant,1,hard,US,Miami Heat,0.2162,0.2226
+V008,Committed Antarctic Ice Sheet mass loss by the end of the twenty-first century,1,relevant,0.2683,0,not_relevant,0,positive,US,"""sea level rise""",0.2683,0.6236
+V009,"Breathe it or not, one pays for Delhi’s air",1,relevant,0.4512,0,not_relevant,0,positive,IN,"""Delhi air pollution""",0.4512,0.6413
+V010,OPM Launches AI Chatbot for Federal Workforce Data,0,not_relevant,0.0028,0,not_relevant,1,easy,US,AI chatbot,0.0028,0.0182
+V011,Barcelona closely watching Inter Milan star’s contract renewal talks,0,not_relevant,0.0018,0,not_relevant,1,hard,IN,contract renewal,0.0018,0.0038
+V012,Combining science and community knowledge could shape coral reef conservation in Indonesia,1,relevant,0.9901,1,relevant,1,positive,US,"""coral reef""",0.9901,0.9341
+V013,"Russian air strikes targeted port infrastructure in Ukraine’s Odesa region, governor says",0,not_relevant,0.4271,0,not_relevant,1,hard,US,air strike,0.4271,0.3923
+V014,Centering equity in ecosystem-based adaptation: operationalising Section C and Targets 8 and 11 of the Kunming-Montreal Global Biodiversity Framework,1,relevant,0.3298,0,not_relevant,0,positive,IN,"""climate adaptation""",0.3298,0.6524
+V015,Starbucks settles Florida lawsuit claiming diversity policies were illegal,0,not_relevant,0.0528,0,not_relevant,1,adjacent,US,DEI policy,0.0528,0.0419
+V016,Weeklong targeted enforcement results in 143 arrests in Arizona,0,not_relevant,0.0235,0,not_relevant,1,easy,US,arrested,0.0235,0.0251
+V017,Land of Startups: What ICTWeek Uzbekistan Revealed About Central Asia’s Tech Rise,0,not_relevant,0.0866,0,not_relevant,1,hard,US,startup ecosystem,0.0866,0.6213
+V018,What if one vote had changed in the birthright citizenship case?,0,not_relevant,0.033,0,not_relevant,1,easy,US,Supreme Court ruling,0.033,0.0669
+V019,SC: Witnesses report large fire at Upstate recycling center,0,not_relevant,0.9467,1,relevant,0,hard,US,recycling,0.9467,0.246
+V020,'Maravilla' Martínez's scoring slump deepens Racing crisis,0,not_relevant,0.072,0,not_relevant,1,hard,US,"""scoring drought""",0.072,0.3788
+V021,Why Svitzer is betting big on Indian shipyards to drive global push for green shipping | INTERVIEW,1,relevant,0.9744,1,relevant,1,positive,IN,"""green shipping""",0.9744,0.9225
+V022,Is York’s Superfund site clean? EPA tests soil to find out,1,relevant,0.9497,1,relevant,1,positive,IN,"""soil contamination""",0.9497,0.8996
+V023,I Cleaned My Whole House with Grove Co. Plastic-Free Cleaning Products—Here’s My Review,1,relevant,0.2301,0,not_relevant,0,positive,IN,eco-friendly product sale,0.2301,0.1557
+V024,"Federal election monitors watched New Bedford polls. The monitors were being monitored, too.",0,not_relevant,0.0966,0,not_relevant,1,easy,US,election polls,0.0966,0.0423
+V025,CASCADES' NEW GHG EMISSIONS REDUCTION TARGETS APPROVED BY THE SCIENCE BASED TARGETS INITIATIVE,1,relevant,0.9031,1,relevant,1,positive,US,"""science-based targets""",0.9031,0.8918
+V026,"Unpopular opinion: Tax credits bought customers, not panels",1,relevant,0.5621,0,not_relevant,0,positive,US,"""clean energy tax credit""",0.5621,0.9135
+V027,This Cheesy White Bean Skillet Gives You the Best Part of French Onion Soup in Every Bite,0,not_relevant,0.0053,0,not_relevant,1,easy,US,recipe,0.0053,0.0248
+V028,A Zika virus vaccine with E protein fusion loop mutations protects via CD8,0,not_relevant,0.1174,0,not_relevant,1,easy,US,vaccine,0.1174,0.1561
+V029,Economic Sentiment Sinks Again to New All-Time Low,0,not_relevant,0.0072,0,not_relevant,1,hard,US,"""economic climate""",0.0072,0.0498
+V030,Florida AG files shareholder petition against The New York Times over corporate governance,0,not_relevant,0.1053,0,not_relevant,1,adjacent,US,corporate governance,0.1053,0.1276
+V031,New study by advocacy group finds PFAS across multiple Colorado waterways,1,relevant,0.8957,1,relevant,1,positive,US,"""PFAS contamination""",0.8957,0.9161
+V032,Hunkkaar: The Roar review: Aneet Padda & Fatima Sana Shaikh-starrer delivers solid acting but clunky lines and familiar plot hold it back,0,not_relevant,0.019,0,not_relevant,1,hard,US,"""recycled storyline""",0.019,0.0824
+V033,Before India prices its grasslands,1,relevant,0.077,0,not_relevant,0,positive,IN,"""carbon credits""",0.077,0.0553
+V034,International Day of Clean Air for Blue Skies,1,relevant,0.6539,0,not_relevant,0,positive,IN,"""air pollution""",0.6539,0.8127
+V035,"Delhi HC dismisses plea against Maharashtra FDA notices to Shah Rukh Khan, Ajay Devgn and Tiger Shroff ov",0,not_relevant,0.1209,0,not_relevant,1,hard,IN,Tiger Shroff,0.1209,0.1617
+V036,"S&S Cut Water & Energy Use in 2025, Report Shows",1,relevant,0.9906,1,relevant,1,positive,US,"""sustainability report""",0.9906,0.9545
+V037,The Top 5 Analyst Questions From PACCAR’s Q2 Earnings Call,0,not_relevant,0.0422,0,not_relevant,1,adjacent,US,"""EPA emissions rule""",0.0422,0.0591
+V039,We can measure climate resilience. Why aren’t we investing in it?,1,relevant,0.9314,1,relevant,1,positive,IN,"""climate adaptation""",0.9314,0.8808
+V040,Donald Trump blames Canada for wildfire smoke — but global warming is loading the wildfire dice,1,relevant,0.8249,0,not_relevant,0,positive,IN,"""global warming""",0.8249,0.9168
+V041,"States sue Trump administration, developers over offshore wind lease buyouts",1,relevant,0.9733,1,relevant,1,positive,US,"""offshore wind project""",0.9733,0.9639
+V042,"TERI, TKIL Industries Partner on Green Hydrogen Research and Policy Advocacy",1,relevant,0.9964,1,relevant,1,positive,IN,"""green hydrogen""",0.9964,0.9645
+V043,Lunar eclipse August 2026: Will it be visible from India?,0,not_relevant,0.0127,0,not_relevant,1,hard,IN,solar eclipse,0.0127,0.0571
+V044,"Big oil and gas companies are partly responsible for California’s water woes, study finds",1,relevant,0.8223,0,not_relevant,0,positive,IN,"""drought climate""",0.8223,0.8669
+V045,Vilnius Completes EUR 10 Million Green Hydrogen Plant,1,relevant,0.9812,1,relevant,1,positive,IN,"""green hydrogen""",0.9812,0.9757
+V046,"Plug-in Hybrids Emit 6 Times, On Average, What Official Tests Claim — New EU Data",1,relevant,0.4047,0,not_relevant,0,positive,US,"""electric vehicle emissions""",0.4047,0.2142
+V047,"Instead of Helping Ukraine’s Poor, Ferrexpo’s Charitable Donations Flowed to Companies Associated With Its Then-CEO",0,not_relevant,0.2257,0,not_relevant,1,adjacent,IN,charity donation,0.2257,0.2969
+V048,‘Open rebellion’ within Union cabinet? CJP alleges 7 ministers refused to resign,0,not_relevant,0.0266,0,not_relevant,1,easy,IN,cabinet reshuffle,0.0266,0.0219
+V049,UDCG Guinea: Formally Requests Single-Use Plastic Ban Moratorium,1,relevant,0.9945,1,relevant,1,positive,US,"""single-use plastic ban""",0.9945,0.9946
+V050,Axor MX Carbon is the World’s Lightest Off-Road Helmet,0,not_relevant,0.9394,1,relevant,0,hard,IN,carbon fiber bike,0.9394,0.8671
+V051,Chicago Fire’s new season 15 trailer reveals the 8 characters who survive the warehouse fire,0,not_relevant,0.0192,0,not_relevant,1,hard,US,Chicago Fire,0.0192,0.0282
+V052,"Upcoming E-Waste Disposal, Shredding Event Scheduled In RSM: Save The Date",1,relevant,0.9514,1,relevant,1,positive,US,e-waste,0.9514,0.9538
+V053,Survey: 42% of Companies Are Becoming More Selective About Disaster Aid Support,0,not_relevant,0.3375,0,not_relevant,1,adjacent,US,corporate philanthropy,0.3375,0.2363
+V054,Bharat Housing Network raises $5M in green bonds from Symbiotics,1,relevant,0.8929,1,relevant,1,positive,IN,"""green bonds""",0.8929,0.8857
+V055,Why wheat prices are surging,0,not_relevant,0.007,0,not_relevant,1,adjacent,US,wheat futures,0.007,0.05
+V056,Extreme Plastic Surgery Makeover Show Panned in New Documentary,0,not_relevant,0.0736,0,not_relevant,1,hard,IN,plastic surgery,0.0736,0.173
+V057,Türkiye Advances National Plastic Agenda Ahead of Global Climate Summit,1,relevant,0.9988,1,relevant,1,positive,IN,"""plastic pollution""",0.9988,0.9671
+V058,Administration deal to cancel offshore wind project gives boost to Trump donor,1,relevant,0.9917,1,relevant,1,positive,US,"""offshore wind project""",0.9917,0.9709
+V059,BCCI invites IPL stakeholders for a review meeting on October 15,0,not_relevant,0.0164,0,not_relevant,1,easy,IN,IPL match,0.0164,0.0482
+V060,How we made it: China’s air pollution clean-up — and the rebound,1,relevant,0.9922,1,relevant,1,positive,IN,"""air pollution""",0.9922,0.9076
+V061,Texans share how rising beef prices are affecting them this election season,0,not_relevant,0.024,0,not_relevant,1,adjacent,US,cattle prices,0.024,0.0596
+V062,"Ireland's record July drought made 8 times more likely by climate-fueled evaporation, study finds",1,relevant,0.9753,1,relevant,1,positive,IN,"""drought climate""",0.9753,0.9054
+V063,"Boston Dumps Flock, Says It Shared Data Nationwide in Violation of Contract",0,not_relevant,0.3665,0,not_relevant,1,hard,US,"""EPA emissions rule""",0.3665,0.23
+V064,"In the week or so since Tarik Skubal left for Los Angeles, the Detroit Tigers have rolled out two pitchers with similarly dynamic and dominant stuff. See link below ⬇️ 📸 Scott Marshall, Scott Marshall-Imagn Images",0,not_relevant,0.1711,0,not_relevant,1,hard,IN,Detroit Tigers,0.1711,0.0991
+V065,‘Have I Got News For You’ Producer Torches BBC Investigation Into Victoria Beckham Joke As “Total Waste” Of Money,0,not_relevant,0.0387,0,not_relevant,1,hard,US,"""waste of money""",0.0387,0.0562
+V066,WWF Living Planet Report 2026 Highlights 73% Wildlife Population Decline,1,relevant,0.938,1,relevant,1,positive,US,"""biodiversity loss""",0.938,0.6449
+V067,"Karnataka parties want new Western Ghats ESA survey. Environmentalists agree, but for different reasons",1,relevant,0.873,0,not_relevant,0,positive,IN,"""Western Ghats""",0.873,0.7873
+V068,"Yes, Chicago has a Fashion Week. These are the 10 events that are actually worth your time.",0,not_relevant,0.0311,0,not_relevant,1,easy,US,fashion week,0.0311,0.0711
+V069,Australia and Turkey criticised for hosting UN climate conference while embracing coal,1,relevant,0.9874,1,relevant,1,positive,IN,"""coal phase-out""",0.9874,0.9392
+V070,Contemporary Amperex Technology And 2 Top EV Stocks To Watch,0,not_relevant,0.0595,0,not_relevant,1,adjacent,US,EV stock,0.0595,0.0328
+V071,Bay Area regions that rarely see flooding could be affected during winter storms,0,not_relevant,0.5322,0,not_relevant,1,adjacent,US,"""sea level rise""",0.5322,0.4647
+V072,Advancing formalization and decent work for domestic and waste management workers in Nepal’s informal economy,0,not_relevant,0.8658,0,not_relevant,1,adjacent,IN,"""waste management""",0.8658,0.8861
+V073,Best road bikes 2026 ridden and reviewed,0,not_relevant,0.0029,0,not_relevant,1,hard,IN,carbon fiber bike,0.0029,0.0076
+V074,What Oura’s Stalled IPO Tells Us About One-Hit Wonders,0,not_relevant,0.0531,0,not_relevant,1,easy,US,IPO,0.0531,0.0853
+V075,"As water stress deepens, India asks thermal power plants to account for every drop",1,relevant,0.9388,1,relevant,1,positive,IN,"""water scarcity""",0.9388,0.8739
+V076,"From Jumbo Floating Restaurant to neon, nostalgia aplenty at art-tech show",0,not_relevant,0.0053,0,not_relevant,1,easy,IN,restaurant review,0.0053,0.0234
+V077,Over 200 borewells shut as groundwater depletion deepens in Ballari,1,relevant,0.2841,0,not_relevant,0,positive,US,"""groundwater depletion""",0.2841,0.2001
+V079,Pushback Mounts Against Trump’s Attacks on the Endangered Species Act,1,relevant,0.9422,1,relevant,1,positive,IN,"""endangered species""",0.9422,0.9347
+V080,Singapore GP: Here’s the new starting grid for the 17th round of the World Championship,0,not_relevant,0.0945,0,not_relevant,1,hard,IN,starting grid,0.0945,0.1055
+V081,"Censored by Trauma, Edited by Vanity: The Battle for Truth in ‘The Vampire Lestat’",0,not_relevant,0.1257,0,not_relevant,1,hard,IN,"""recycled plot""",0.1257,0.3959
+V082,Denzel Dumfries demands defensive fix as leaky Netherlands chase first clean sheet of 2026,0,not_relevant,0.525,0,not_relevant,1,hard,IN,"""clean sheet""",0.525,0.2042
+V083,"GK Energy says ₹1,000-crore order book puts FY27 revenue target on track",0,not_relevant,0.7363,0,not_relevant,1,hard,IN,"""PM Surya Ghar rooftop solar""",0.7363,0.7423
+V084,Outcome Bonds: How Performance-Linked Bonds Mobilise Private Capital for Sustainable Impact,0,not_relevant,0.5942,0,not_relevant,1,adjacent,US,"""sustainable finance""",0.5942,0.9133
+V085,El Paso and New Mexico set ambitious climate goals. Their plans didn’t account for massive new data centers,1,relevant,0.7648,0,not_relevant,0,positive,US,"""greenhouse gas emissions""",0.7648,0.6335
+V086,"India wastes 4% of solar power amid power shortages in July, August, report shows",1,relevant,0.9736,1,relevant,1,positive,IN,"""solar power""",0.9736,0.8493
+V087,MetLife 2025 Sustainability Report: Reducing Our Environmental Impact,1,relevant,0.9998,1,relevant,1,positive,US,"""sustainability report""",0.9998,0.9802
+V088,Melting Alpine Ice Reveals a 63-Year-Old Mountaineering Time Capsule,1,relevant,0.5087,0,not_relevant,0,positive,IN,"""glacier melt""",0.5087,0.6057
+V089,"NGT directs Raj forest dept to step up measures to prevent, control fires",1,relevant,0.5095,0,not_relevant,0,positive,IN,"""National Green Tribunal""",0.5095,0.7584
+V090,Geothermal Energy Set To Boost India’s Net Zero By 2070 Drive,1,relevant,0.9933,1,relevant,1,positive,IN,"""India net zero 2070""",0.9933,0.9326
+V091,We have complete trust in our Indian partners: French National Space Agency,0,not_relevant,0.1957,0,not_relevant,1,adjacent,IN,ISRO launch,0.1957,0.1148
+V092,How PepsiCo’s regen ag strategy is taking root on this Iowa farm,1,relevant,0.3523,0,not_relevant,0,positive,IN,"""regenerative farming""",0.3523,0.3632
+V093,"25th CII Energy Efficiency Summit: Energy Efficiency Takes the Next Leap with AI, Electrification and Innovation",1,relevant,0.9961,1,relevant,1,positive,IN,"""energy efficiency""",0.9961,0.8591
+V094,"Ford reports Q3 U.S. sales lower than year ago, but signals strong Q4",0,not_relevant,0.0958,0,not_relevant,1,adjacent,US,automaker quarterly sales,0.0958,0.2849
+V095,Joint letter – Fossil fuel profit taxation and agenda of the next ECOFIN meeting,1,relevant,0.591,0,not_relevant,0,positive,US,"""carbon market""",0.591,0.5324
+V096,"Daily Court Digest: Major environment orders (October 14, 2026)",1,relevant,0.732,0,not_relevant,0,positive,IN,"""National Green Tribunal""",0.732,0.4585
+V097,Left-arm taking over: Zaheer Khan appointed as CSK head coach after Stephen Fleming's exit,0,not_relevant,0.0401,0,not_relevant,1,hard,IN,Chennai Super Kings,0.0401,0.0407
+V098,Navigating Greenwashing risk across jurisdictions,1,relevant,0.9965,1,relevant,1,positive,IN,greenwashing,0.9965,0.9785
+V099,SignWell And TD SYNNEX Partner To Scale Enterprise-Grade eSignature Platform Across Partner Ecosystem,0,not_relevant,0.0064,0,not_relevant,1,hard,US,partner ecosystem,0.0064,0.1325
+V100,Emphasis on energy efficiency to meet rising demand: Vijayanand,1,relevant,0.974,1,relevant,1,positive,IN,"""energy efficiency""",0.974,0.9445
+V101,"Box Office: ‘Moana’ Flounders With $43 Million Debut, Among Weakest of Disney’s Live-Action Remakes",0,not_relevant,0.0174,0,not_relevant,1,easy,US,box office,0.0174,0.0225
+V102,Tackling food waste: Ingredient innovators unlock business opportunities through upcycling and AI,1,relevant,0.8079,0,not_relevant,0,positive,US,"""food waste""",0.8079,0.8022
+V103,Africa lost 80% of monitored wildlife population size since 1970: WWF,1,relevant,0.9674,1,relevant,1,positive,US,"""biodiversity loss""",0.9674,0.8944
+V104,Sourav Ganguly dismisses conflict of interest claims over Delhi Capitals coach role,0,not_relevant,0.1853,0,not_relevant,1,hard,IN,Delhi Capitals,0.1853,0.2515
+V105,"Oregon’s public universities, classified workers narrowly avoid strike",0,not_relevant,0.0124,0,not_relevant,1,adjacent,IN,labor union strike,0.0124,0.0526
+V106,FTX’s former Bitcoin mining bet gets new life as parent raises €800 million for AI,0,not_relevant,0.0104,0,not_relevant,1,hard,US,bitcoin mining,0.0104,0.0663
+V107,Lenovo and Schneider Electric Partner to Bring Decarbonization Tools and Expertise to IT Channel Partners,1,relevant,0.8054,0,not_relevant,0,positive,US,decarbonization,0.8054,0.6246
+V108,NEW REPORT: PFAS contamination in America’s rivers and lakes,1,relevant,0.998,1,relevant,1,positive,US,"""PFAS contamination""",0.998,0.9682
+V109,Calvin Harris announces tour with stop in Seattle,0,not_relevant,0.0086,0,not_relevant,1,hard,IN,Climate Pledge Arena,0.0086,0.0332
+V110,Recycling alone cannot solve Türkiye’s plastic waste problem: Expert,1,relevant,0.9983,1,relevant,1,positive,IN,"""plastic pollution""",0.9983,0.9626
+V111,Minnesota air quality alert: Twin Cities air now considered hazardous,1,relevant,0.9729,1,relevant,1,positive,US,"""wildfire smoke air quality""",0.9729,0.9781
+V112,Microsoft Is Suspended From Green Card Program. Vance Accuses Company Of H-1B Abuse.,0,not_relevant,0.2969,0,not_relevant,1,hard,US,green card visa,0.2969,0.3068
+V113,We’re Defending Big Bend from Trump’s Border Barrier,1,relevant,0.3875,0,not_relevant,0,positive,US,"""national parks conservation""",0.3875,0.7433
+V114,"Sunlight, blood sugar and diabetes: a new study finds an intriguing connection",0,not_relevant,0.1071,0,not_relevant,1,easy,IN,diabetes study,0.1071,0.3689
+V115,U.S. Crude Inventories Fall As Brent Prices Soar,0,not_relevant,0.0077,0,not_relevant,1,adjacent,IN,crude oil Brent,0.0077,0.025
+V116,Stubble burning season begins: Why could a Super El Nino make Delhi's winter air worse?,1,relevant,0.9322,1,relevant,1,positive,IN,"""stubble burning""",0.9322,0.8813
+V117,Leonardo DiCaprio And Jeff Bezos Accused Of 'Greenwashing' For $200M Endangered Species Project,1,relevant,0.9914,1,relevant,1,positive,IN,greenwashing,0.9914,0.9494
+V118,Karnataka Invites Global Tech for 'Quantum City' Development,0,not_relevant,0.1074,0,not_relevant,1,hard,IN,tech ecosystem,0.1074,0.7797
+V119,Minnesota Wild Signs Head Coach John Hynes to Multi-Year Contract Extension,0,not_relevant,0.025,0,not_relevant,1,hard,US,Minnesota Wild,0.025,0.0771
+V120,"Top stocks to watch today: Inox Green, Meesho, Titan, Ola Electric shares in focus on Wednesday, 7 October | Full list",0,not_relevant,0.0344,0,not_relevant,1,adjacent,IN,Ola Electric shares,0.0344,0.0694
+V121,"Nor’easter hits Philadelphia region, bringing high waves, coastal flooding to N.J. and Delaware",0,not_relevant,0.5466,0,not_relevant,1,adjacent,IN,"""climate-driven flooding""",0.5466,0.6816
+V122,Mariners End Eight-Year Drought With Dramatic CFL Victory,0,not_relevant,0.2171,0,not_relevant,1,hard,IN,"""title drought""",0.2171,0.144
+V123,"Detroit Tigers at Cleveland Guardians Game Story, Scores/Highlights - 09/05/2026",0,not_relevant,0.0119,0,not_relevant,1,hard,IN,Detroit Tigers,0.0119,0.0085
+V124,"Protect gains, sustain momentum",0,not_relevant,0.0462,0,not_relevant,1,hard,IN,"""sustain momentum""",0.0462,0.0157
+V125,"Beans, Clean Labels & Zero Waste 2.0 Star in Whole Foods Market’s 2027 Food Trends",1,relevant,0.9845,1,relevant,1,positive,IN,"""zero waste""",0.9845,0.9214
+V126,Pepsi and Monster next in line? Campa Cola wins case over FSSAI ban on ‘energy drink’ label,0,not_relevant,0.0735,0,not_relevant,1,hard,IN,energy drink,0.0735,0.1673
+V127,US begins probe into EU’s carbon border tax: How India could benefit,1,relevant,0.9876,1,relevant,1,positive,IN,"""carbon tax""",0.9876,0.9003
+V128,Saligao Waste Management Plant Shutdown Triggers Disposal Crisis for Local Civic Bodies,1,relevant,0.7681,0,not_relevant,0,positive,IN,"""waste management""",0.7681,0.9222
+V129,Haryana’s wheat MSP beneficiaries doubled to 6 lakh in 5 years | Hindustan Times,0,not_relevant,0.135,0,not_relevant,1,adjacent,IN,MSP wheat,0.135,0.1088
+V130,Partners Group Trust Proposes Vote That Could Lead to Wind-Down,0,not_relevant,0.4878,0,not_relevant,1,adjacent,IN,shareholder vote,0.4878,0.5556
+V131,Wind Generation Rises 17% During Mexico’s Peak Demand: Vestas,1,relevant,0.9177,1,relevant,1,positive,US,"""wind energy""",0.9177,0.8683
+V132,Leland home demolished after soil contamination from petroleum spill,1,relevant,0.933,1,relevant,1,positive,IN,"""soil contamination""",0.933,0.7371
+V133,Why Enbridge Remains a Top Dividend Stock for Canadian Income Investors,0,not_relevant,0.006,0,not_relevant,1,hard,IN,"""sustainable dividend""",0.006,0.0294
+V134,How Assent is Driving Supply Chain Decarbonisation With AI,1,relevant,0.9753,1,relevant,1,positive,US,"""supply chain emissions""",0.9753,0.9222
+V135,iPhone 18 Pro Max & 18 Pro battery life tested — the results are surprising,0,not_relevant,0.0114,0,not_relevant,1,hard,US,phone battery life,0.0114,0.0512
+V136,Oil settles higher after Saudi strikes stoke supply worries,0,not_relevant,0.0338,0,not_relevant,1,adjacent,IN,oil prices,0.0338,0.0636
+V137,England complete 3-0 Test series clean sweep with 8-wicket win over Pakistan at Edgbaston,0,not_relevant,0.1581,0,not_relevant,1,hard,US,"""clean sweep""",0.1581,0.0801
+V138,Air India Express Pilots Question Revised Salary Structure Despite Higher-Pay Proposal,0,not_relevant,0.0845,0,not_relevant,1,hard,IN,Air India,0.0845,0.0735
+V139,!+[𝐒𝐓ream]HERE'S!Carolina Hurricanes VS Washington Capitals LIVE Streams ON Tv Channel*,0,not_relevant,0.0478,0,not_relevant,1,hard,US,Carolina Hurricanes,0.0478,0.0285
+V140,"Clean Wisconsin, Sierra Club Take Legal Action to Defend Federal Air Pollution Safeguards",1,relevant,0.9605,1,relevant,1,positive,US,"""Clean Air Act""",0.9605,0.9
+V141,Special | India’s Rooftop Solar Scheme Promises Free Electricity. But Can the Most Energy-Insecure Access It?,1,relevant,0.8518,0,not_relevant,0,positive,IN,"""solar power""",0.8518,0.6866
+V142,"Chocolate giant lobbied U.S. and EU officials over deforestation laws, says report",1,relevant,0.9447,1,relevant,1,positive,IN,deforestation,0.9447,0.5381
+V143,'A Few Thousand Farmers Attended': Pravin Tarde Calls Out Bollywood's Absence From Nana Patekar's Funeral,0,not_relevant,0.151,0,not_relevant,1,easy,IN,Bollywood,0.151,0.6422
+V144,Why Is Industrial Animal Agriculture Bad for the Environment?,1,relevant,0.9868,1,relevant,1,positive,US,"""sustainable agriculture""",0.9868,0.9104
+V145,"GIFT Nifty jumps 100 pts, signals positive start for Sensex, Nifty; crude oil, FII selling remain key...",0,not_relevant,0.0057,0,not_relevant,1,easy,IN,Sensex,0.0057,0.0232
+V146,3 Homewood residents plan 18-hole outdoor putting course,0,not_relevant,0.2439,0,not_relevant,1,hard,US,golf green putt,0.2439,0.3569
+V147,"Villagers protest air, water pollution from ethanol factory in Bundi",1,relevant,0.9933,1,relevant,1,positive,IN,"""water pollution""",0.9933,0.9643
+V148,Global sustainable finance 2026: growth on the horizon,1,relevant,0.9954,1,relevant,1,positive,IN,"""green bonds""",0.9954,0.9471
+V149,Why one upstate town has become a hotspot for battery storage projects,1,relevant,0.9878,1,relevant,1,positive,US,"""battery storage""",0.9878,0.9317
+V150,The maps and charts that show the huge impact of Britain’s record-breaking summer,1,relevant,0.3754,0,not_relevant,0,positive,US,"""heatwave climate change""",0.3754,0.4244
+V151,Possehl takes full control of printing-systems maker manroland Goss,0,not_relevant,0.0637,0,not_relevant,1,hard,US,offset printing,0.0637,0.2184
+V152,"Greenhouse gases: What are Scope 1, 2, and 3 emissions?",1,relevant,0.993,1,relevant,1,positive,IN,"""scope 3 emissions""",0.993,0.9258
+V153,Stablecoin payments firm RedotPay completes financial audit ahead of planned IPO,0,not_relevant,0.0118,0,not_relevant,1,adjacent,IN,audit,0.0118,0.1058
+V154,£250m battery storage project at former coal power station secures funding green light,1,relevant,0.9985,1,relevant,1,positive,US,"""green light"" project",0.9985,0.9266
+V155,Alnylam Pharmaceuticals Reports Second Quarter 2026 Financial Results and Highlights Recent Period Progress,0,not_relevant,0.0851,0,not_relevant,1,easy,US,quarterly earnings,0.0851,0.0384
+V156,Hacked: Cybersecurity Breach Disrupts Federal Court Operations,0,not_relevant,0.0099,0,not_relevant,1,easy,US,cybersecurity breach,0.0099,0.0384
+V157,Volatile depletion in rocky planets as a chemical fingerprint of hybrid accretion,0,not_relevant,0.6126,0,not_relevant,1,adjacent,US,astronomy,0.6126,0.7248
+V158,‘Death sentence’: Trump administration to open habitats of endangered species to logging and mining,1,relevant,0.7268,0,not_relevant,0,positive,IN,"""endangered species""",0.7268,0.5475
+V159,"NASA, SpaceX Proceed Toward Crew-13 Launch",0,not_relevant,0.072,0,not_relevant,1,adjacent,US,NASA launch,0.072,0.1274
+V160,Ropar MLA flags industrial pollution from Baddi-Barotiwala-Nalagarh industrial belt into Sutlej,1,relevant,0.9973,1,relevant,1,positive,US,"""industrial pollution""",0.9973,0.9851
+V161,"Car Retail Sales Sep 2026 - Maruti, Mahindra, Tata, Hyundai, Toyota, Kia, Skoda VW, MG, Honda",0,not_relevant,0.0043,0,not_relevant,1,adjacent,IN,Tata Motors sales,0.0043,0.0129
+V162,Prime minister joins FICCI FDI conference amid efforts to improve investment climate,0,not_relevant,0.0299,0,not_relevant,1,hard,US,"""investment climate""",0.0299,0.1957
+V163,Scoop: BlocPower faces restructuring — and investors stand to lose,1,relevant,0.3797,0,not_relevant,0,positive,US,"""Inflation Reduction Act clean energy""",0.3797,0.2802
+V164,Life cycle carbon emissions of lead acid battery manufacturing in Pakistan with a modeled china circular recycling benchmark,1,relevant,0.9999,1,relevant,1,positive,IN,"""carbon emissions""",0.9999,0.9485
+V165,CEC Ponders Fate of Proposed 300-MW Battery Storage Project,1,relevant,0.9864,1,relevant,1,positive,US,"""battery storage""",0.9864,0.9602
+V166,What Brazil’s Election Means for the Amazon Rainforest,1,relevant,0.5114,0,not_relevant,0,positive,IN,deforestation,0.5114,0.3688
+V167,IRS launches new mobile app to help taxpayers manage their accounts,0,not_relevant,0.0098,0,not_relevant,1,easy,US,smartphone launch,0.0098,0.0508
+V168,IPEC just hired its first 2 staffers. How much will they make?,0,not_relevant,0.1065,0,not_relevant,1,adjacent,US,executive compensation,0.1065,0.4339
+V169,Growth at a Reasonable Price: Alphabet Inc - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGN) Screens as a GARP Candidate,0,not_relevant,0.0062,0,not_relevant,1,hard,US,"""sustainable pace""",0.0062,0.0388
+V170,"Climate disclosure gives Canadian companies an edge with European investors, new research shows",1,relevant,0.6746,0,not_relevant,0,positive,US,"""climate risk disclosure""",0.6746,0.5028
+V171,New York and California sue to block Trump's plans to cancel offshore wind projects,1,relevant,0.9791,1,relevant,1,positive,US,"""offshore wind""",0.9791,0.923
+V172,RBI’s rate hike likely to have moderate impact on home and auto loan demand,0,not_relevant,0.0284,0,not_relevant,1,easy,IN,RBI repo rate,0.0284,0.0361
+V173,A machine learning-based survival prediction model for stage III LDH-elevated cutaneous melanoma patients,0,not_relevant,0.0531,0,not_relevant,1,hard,US,decision tree,0.0531,0.0732
+V174,Germany’s 99% aluminium can recycling magic: How DRS built a circular economy leader,1,relevant,0.9953,1,relevant,1,positive,IN,"""circular economy""",0.9953,0.947
+V175,East Sussex carbon emissions target could be scrapped,1,relevant,0.9957,1,relevant,1,positive,IN,"""net zero target""",0.9957,0.9621
+V176,"Current price of oil as of September 22, 2026",0,not_relevant,0.0013,0,not_relevant,1,adjacent,IN,crude oil Brent,0.0013,0.025
+V177,Wind energy is hiring. Here’s how to get a job in it,1,relevant,0.847,0,not_relevant,0,positive,US,"""wind energy""",0.847,0.6698
+V178,"Canadian wildfire smoke reaches Greater Cincinnati, causing air quality to deteriorate",1,relevant,0.5328,0,not_relevant,0,positive,US,"""air quality index""",0.5328,0.8286
+V179,"Tennis, WTA – US Open 2026: Keys upends Bondar",0,not_relevant,0.0233,0,not_relevant,1,easy,US,tennis grand slam,0.0233,0.0147
+V180,Schneider Electric Expands SME Decarbonization Program With Greenly,1,relevant,0.9961,1,relevant,1,positive,US,decarbonization,0.9961,0.9342
+V181,NC high school football scores for Week 7 of 2026 season,0,not_relevant,0.0168,0,not_relevant,1,easy,US,NFL scores,0.0168,0.0213
+V182,Central Pollution Control Board eases pollution rules for small hotels near Sariska Tiger Reserve,1,relevant,0.9871,1,relevant,1,positive,IN,"""CPCB pollution""",0.9871,0.8178
+V183,In-Line Storage Injection Sends Natural Gas Futures Adrift,0,not_relevant,0.0723,0,not_relevant,1,adjacent,IN,natural gas futures,0.0723,0.0594
+V184,Just politics or the ‘opposite of clever’? The risks and rewards of strategic voting,0,not_relevant,0.2167,0,not_relevant,1,easy,IN,parliament vote,0.2167,0.4669
+V185,Regenerative Farming Outpaces Tech-Based Carbon Capture Solutions in First Large-Scale Systemic Study,1,relevant,0.9645,1,relevant,1,positive,IN,"""regenerative farming""",0.9645,0.8377
+V186,Japan is Making Companies Publish their Gender Pay Gap,0,not_relevant,0.0148,0,not_relevant,1,adjacent,IN,gender pay gap,0.0148,0.0239
+V187,Family tree certificate can’t be denied because heirs live in different places: Karnataka high court,0,not_relevant,0.0261,0,not_relevant,1,hard,IN,family tree,0.0261,0.0492
+V188,Injured WWE Star Says He May Return The Ring 'A Little Sooner Than Doctors Initially Thought',0,not_relevant,0.0073,0,not_relevant,1,hard,US,"""sustained injury""",0.0073,0.0535
+V189,SWITCH Mobility Bags Order for 650 Electric Buses for Mumbai and Pune,1,relevant,0.9503,1,relevant,1,positive,US,"""public transport electrification""",0.9503,0.8509
+V190,Emissions from the fashion industry exceed Japan’s carbon footprint and are rising every year,1,relevant,0.9982,1,relevant,1,positive,US,"""carbon footprint""",0.9982,0.9342
+V191,Africa: UN Recognizes Restoration Initiative Feeding 4 Million Across the Sahel,1,relevant,0.9444,1,relevant,1,positive,US,"""ecosystem restoration""",0.9444,0.9278
+V192,"Pittsylvania County deputy arrested, charged with domestic assault and battery",0,not_relevant,0.0056,0,not_relevant,1,hard,IN,"""assault and battery""",0.0056,0.0504
+V193,US government launches AI-driven programs to overhaul clinical trials,0,not_relevant,0.0217,0,not_relevant,1,easy,US,clinical trial,0.0217,0.0739
+V194,"Markets end on mixed note; Nifty up 76 points, Sensex dips",0,not_relevant,0.0076,0,not_relevant,1,easy,IN,Nifty,0.0076,0.0591
+V195,Bulgaria v Isle of Man | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026,0,not_relevant,0.0282,0,not_relevant,1,easy,IN,cricket match,0.0282,0.0415
+V196,Losing the Endangerment Finding: The Costs and Benefits of Repealing Greenhouse Gas Emissions Standards for Power Plants,1,relevant,0.9985,1,relevant,1,positive,US,"""Inflation Reduction Act clean energy""",0.9985,0.958
+V197,"More Wisconsin parents opting out of school vaccine requirements, data shows",0,not_relevant,0.025,0,not_relevant,1,easy,US,vaccine,0.025,0.0507
+V198,Joshi says government will release sugar stocks to curb price rise,0,not_relevant,0.0168,0,not_relevant,1,adjacent,IN,mandi prices,0.0168,0.1473
+V199,Three major US cities rank among worst air quality in the world as Canadian wildfire smoke invades America,1,relevant,0.8444,0,not_relevant,0,positive,US,"""air quality index""",0.8444,0.8959
+V200,Sarasota airport adds new nonstop route with fares from $69,0,not_relevant,0.0668,0,not_relevant,1,easy,US,airline fares,0.0668,0.1181
+V201,Delhi NCR pollution: Regional collaboration as key to long-term solutions | Hindustan Times,1,relevant,0.989,1,relevant,1,positive,IN,"""Delhi air pollution""",0.989,0.8647
+V202,Over €400m in free EU ETS allowances given to airlines in 2025 to support SAF uptake,1,relevant,0.3848,0,not_relevant,0,positive,US,"""sustainable aviation fuel""",0.3848,0.5198
+V203,Big win for Indian exporters as UK recognises India's carbon credit scheme,1,relevant,0.976,1,relevant,1,positive,IN,"""carbon credit trading scheme India""",0.976,0.8036
+V204,Venezuela Helped Build OPEC. Now It May Help Break It Apart,0,not_relevant,0.0795,0,not_relevant,1,adjacent,US,OPEC,0.0795,0.1593
+V205,T-Mobile seeks positive energy from new CFO,0,not_relevant,0.1099,0,not_relevant,1,hard,US,"""positive energy""",0.1099,0.0908
+V206,Bridget Carleton Points Leader in Portland Fire vs. Seattle Storm - Top Points,0,not_relevant,0.0061,0,not_relevant,1,hard,US,Seattle Storm,0.0061,0.0125
+V207,Consumer watchdog steps up probe into Apple on iOs 18 software update issues,0,not_relevant,0.0255,0,not_relevant,1,easy,IN,software update,0.0255,0.0654
+V208,"7,000+ People Built a Zero-Waste Housing Society",1,relevant,0.936,1,relevant,1,positive,IN,"""zero waste""",0.936,0.9307
+V209,Oil pocket found during restoration work near UO-owned property along Columbia River,1,relevant,0.9551,1,relevant,1,positive,US,"""ecosystem restoration""",0.9551,0.9067
+V210,"Utah Wildlife Board approves changes to fishing regulations for 2027-28, other items",1,relevant,0.7377,0,not_relevant,0,positive,US,"""wildlife conservation""",0.7377,0.1658
+V211,"Company's Textile Dyes Work Through Magnetism, Cutting Fashion's Water-Use, Energy, and Pollution",1,relevant,0.9872,1,relevant,1,positive,IN,"""water pollution""",0.9872,0.9753
+V212,"Ola Electric clears Rs 1,500 Cr fundraise; Startup funding dips marginally",0,not_relevant,0.0629,0,not_relevant,1,easy,IN,startup funding,0.0629,0.196
+V213,China’s EV Transition Faces a Lithium Bottleneck First and a Cobalt Squeeze Next,1,relevant,0.5652,0,not_relevant,0,positive,IN,"""EV adoption emissions""",0.5652,0.8712
+V214,"This Device Can Cut Food Waste by 90%, and It’s Smaller Than a Microwave",1,relevant,0.9461,1,relevant,1,positive,US,"""food waste""",0.9461,0.8962
+V215,"Mongolia’s Human Rights in 2025: Procedural Gains, Independence & Civil Liberties at Risk",0,not_relevant,0.1548,0,not_relevant,1,adjacent,US,human rights report,0.1548,0.2029
+V216,"[Science Scope] Are Electric Vehicles Truly Eco-Friendly? ② The Real Battle Is Fought on the Grid, Not on the Road",1,relevant,0.4876,0,not_relevant,0,positive,US,"""electric vehicle emissions""",0.4876,0.5799
+V217,Catalyzing Centre of Excellence for Energy Transition – A Strategic Enabler for Andhra Pradesh to Achieve Energy Transition Goals,1,relevant,0.9402,1,relevant,1,positive,US,"""clean energy transition""",0.9402,0.8507
+V218,Handgun recovered from New Jersey lake sparks police investigation,0,not_relevant,0.0727,0,not_relevant,1,easy,IN,police investigation,0.0727,0.0666
+V219,Journalist Who Reported Ram Temple Donation Scam Tells SC Police Sought His Digital Footprint,0,not_relevant,0.0076,0,not_relevant,1,hard,US,"""digital footprint""",0.0076,0.0286
+V220,"J&K bets on waste-to-wealth model, sets 10-year circular economy roadmap",1,relevant,0.9609,1,relevant,1,positive,IN,"""circular economy""",0.9609,0.9064
+V221,Dear EU: how to make SFDR 2.0 work,1,relevant,0.0593,0,not_relevant,0,positive,US,"""sustainable finance""",0.0593,0.4714
+V222,Microsoft and partners disrupt vast Chinese-language phishing kit ecosystem,0,not_relevant,0.0146,0,not_relevant,1,hard,US,partner ecosystem,0.0146,0.1281
+V223,"Tiger Woods to change not guilty plea in DUI case, court docs show",0,not_relevant,0.5395,0,not_relevant,1,hard,US,Tiger Woods,0.5395,0.3212
+V224,STS Releases MDCAT Answer Key 2026,0,not_relevant,0.1811,0,not_relevant,1,hard,US,"""carbon copy""",0.1811,0.2612
+V225,Chambal’s new limited-edition pink gin is inspired by the Western Ghats,0,not_relevant,0.8404,0,not_relevant,1,adjacent,IN,"""Western Ghats""",0.8404,0.9273
+V226,Microsoft suspended from green card program over H-1B visa abuse,0,not_relevant,0.3172,0,not_relevant,1,hard,US,green card visa,0.3172,0.3886
+V227,3 Stocks Benefiting From Single-Use Plastic Ban Implementation,1,relevant,0.9957,1,relevant,1,positive,US,"""single-use plastic ban""",0.9957,0.9762
+V228,Musadik Malik Calls for Major Expansion of Groundwater Recharge Efforts in Islamabad,1,relevant,0.5311,0,not_relevant,0,positive,US,"""groundwater depletion""",0.5311,0.9222
+V229,Premier League: Why are transfer fees soaring?,0,not_relevant,0.0328,0,not_relevant,1,easy,IN,Premier League transfer,0.0328,0.0303
+V230,6666: Taylor Sheridan Reveals Plans for Ranch Series Have Been Cancelled,0,not_relevant,0.0817,0,not_relevant,1,easy,IN,TV series finale,0.0817,0.0862
+V231,"BRICS Targets US Tariffs, Western Sanctions and EU Carbon Tax – Without Naming Them",1,relevant,0.9969,1,relevant,1,positive,IN,"""carbon tax""",0.9969,0.9247
+V232,Mashhad Court Sentences January Protester to 15 Years in Prison,0,not_relevant,0.0251,0,not_relevant,1,easy,IN,court sentenced,0.0251,0.0472
+V233,"SoundCloud Go+: Pricing, Features, and Reviews in 2026",0,not_relevant,0.025,0,not_relevant,1,hard,US,subscription renews,0.025,0.1224
+V234,Michigan Gas Prices continue climb while diesel sets new all-time record,0,not_relevant,0.0252,0,not_relevant,1,adjacent,US,gasoline prices,0.0252,0.0487
+V235,"Obviously, the Knicks Should Not Visit the White House. Why Is This Even a Discussion?",0,not_relevant,0.0624,0,not_relevant,1,easy,US,NBA playoffs,0.0624,0.1608
+V236,Hydrogen-powered train reflects PM Modi’s vision for green mobility: Piyush Goyal,1,relevant,0.978,1,relevant,1,positive,IN,"""National Green Hydrogen Mission""",0.978,0.9479
+V237,Surface air temperature for August 2026,1,relevant,0.5678,0,not_relevant,0,positive,US,"""climate change""",0.5678,0.4853
+V238,Trump Refunds to Cancel Offshore Wind Projects Total $4 Billion,1,relevant,0.9626,1,relevant,1,positive,US,"""offshore wind""",0.9626,0.9401
+V239,RTV Digital. . Dr. Vivek Vardhan Veerapaneni | SWASA Hospital | Freedom to Breath | Hyderabad | RTV,0,not_relevant,0.0049,0,not_relevant,1,easy,IN,hospital,0.0049,0.0087
+V240,Fidji Simo Joins Nscale Board of Directors,0,not_relevant,0.0065,0,not_relevant,1,adjacent,IN,board of directors,0.0065,0.0057
+V241,Scientists stop a quantum particle using a magnetic field it never crossed,0,not_relevant,0.03,0,not_relevant,1,adjacent,US,particle physics,0.03,0.417
+V242,Maine high school football scores from Week 5,0,not_relevant,0.0481,0,not_relevant,1,easy,US,NFL scores,0.0481,0.0572
+V243,Tim Robbins urges Democrats to drop outrage and ‘get their stuff together’,0,not_relevant,0.0432,0,not_relevant,1,hard,IN,"""political climate""",0.0432,0.0648
+V244,Commentary: Florida can lead on clean energy if politics don’t get in the way,1,relevant,0.9758,1,relevant,1,positive,US,"""clean energy transition""",0.9758,0.8117
+V245,"Fake Indian Air Force Officer Accused of Trapping Women on Instagram, Caught in Hyderabad",0,not_relevant,0.0251,0,not_relevant,1,hard,IN,air force,0.0251,0.0381
+V246,Moving towards zero waste,1,relevant,0.9984,1,relevant,1,positive,US,e-waste,0.9984,0.9925
+V247,Frank Ocean Shares Rare Social Media Post Featuring Head Tattoo He ‘B*tched Out’ on Getting,0,not_relevant,0.0207,0,not_relevant,1,hard,US,Frank Ocean,0.0207,0.0564
+V248,"Erykah Badu & The Alchemist Release New Album Before The World Blows Feat. Steve Lacy, Earl Sweatshirt, Thundercat, & More",0,not_relevant,0.0718,0,not_relevant,1,easy,US,album release,0.0718,0.0473
+V249,Two Decades of Volunteering: Five Lessons for Youth Impact and Community Change,0,not_relevant,0.7062,0,not_relevant,1,adjacent,US,employee volunteering,0.7062,0.6613
+V250,California’s clean air laws are back as court overrules Trump from blocking them,1,relevant,0.8658,0,not_relevant,0,positive,US,"""Clean Air Act""",0.8658,0.6413
+V251,"Ahead of CCAMLR meeting, NGOs push for countries to enact new Antarctic protections",1,relevant,0.6129,0,not_relevant,0,positive,US,"""science-based targets""",0.6129,0.5542
+V252,"Hollywood Climate Summit, Jackson Wild Unveil Finalists For Expanded Nature & Climate Storytelling Awards",1,relevant,0.9893,1,relevant,1,positive,IN,"""climate summit""",0.9893,0.9484
+V253,Doctor Provides Four Tips To Protect Yourself From Wildfire Smoke,1,relevant,0.1018,0,not_relevant,0,positive,US,"""wildfire smoke air quality""",0.1018,0.1013
+V254,India Tightens Oversight of Tyre Pyrolysis Sector as Compliance Data Reveals,1,relevant,0.3307,0,not_relevant,0,positive,IN,"""CPCB pollution""",0.3307,0.331
+V255,"Wildfire Engulfs Europe: France evacuates 1 lakh, Spain declares emergency; UN flags impact of climate catastrophes",1,relevant,0.9201,1,relevant,1,positive,IN,"""wildfire climate""",0.9201,0.939
+V256,Cuba forges ahead with renewable energy plans amid US oil blockade,1,relevant,0.8976,1,relevant,1,positive,US,"""renewable energy""",0.8976,0.7747
+V257,Trump dismantled U.S. climate policy. But his war is cutting emissions.,1,relevant,0.9976,1,relevant,1,positive,US,"""climate policy""",0.9976,0.9493
+V258,California SB 253 Countdown to Compliance – One Month to Go,1,relevant,0.1622,0,not_relevant,0,positive,US,"""greenhouse gas emissions""",0.1622,0.5493
+V259,Margot Robbie's Ocean's 11 Paris Outfit Sparks Frenzy Over Parent Trap's Meredith Blake Comparison,0,not_relevant,0.0838,0,not_relevant,1,hard,US,Ocean's Eleven,0.0838,0.0677
+V260,Carbon credits need more than a nod,1,relevant,0.986,1,relevant,1,positive,IN,"""carbon credits""",0.986,0.899
+V261,Sea of Plastic: How India’s waste reaches the ocean,1,relevant,0.999,1,relevant,1,positive,IN,"""ocean pollution""",0.999,0.9609
+V262,Pacific nations take centre stage at 'pre-COP' climate summit,1,relevant,0.8881,1,relevant,1,positive,IN,"""climate summit""",0.8881,0.7529
+V263,Former Syrian President Assad sentenced to death in absentia,0,not_relevant,0.0098,0,not_relevant,1,easy,IN,court sentenced,0.0098,0.0464
+V264,"2 kanwariyas swept away at Namami Gange Ghat, search op on",0,not_relevant,0.0937,0,not_relevant,1,easy,IN,"""Namami Gange""",0.0937,0.0243
+V265,"US Environmental Protection Agency expands Ratepayer Protection Pledge that Google, Meta, Amazon, Microso",1,relevant,0.6804,0,not_relevant,0,positive,IN,"""net zero pledge""",0.6804,0.4334
+V266,Actress Mrunal Thakur attends jewellery store's opening in Abu Dhabi,0,not_relevant,0.0108,0,not_relevant,1,hard,IN,"""store footprint""",0.0108,0.0259
+V267,State regulators set timeline for when CMP rate hike could hit bills,0,not_relevant,0.0115,0,not_relevant,1,adjacent,IN,utility rate hike,0.0115,0.0629
+V268,Battle Mountain volunteer wins top Nevada wildlife conservation award,1,relevant,0.8968,1,relevant,1,positive,US,"""wildlife conservation""",0.8968,0.5881
+V269,The Solar Flare bar,0,not_relevant,0.0234,0,not_relevant,1,hard,US,solar flare,0.0234,0.029
+V270,'Perfect storm' brews for global food supply this winter as grain prices soar,0,not_relevant,0.4011,0,not_relevant,1,adjacent,US,crop prices,0.4011,0.427
+V271,Critics Decry Trump HUD's Proposed Rollback of Flood Protections for Low-Income Homes,1,relevant,0.8506,0,not_relevant,0,positive,IN,"""climate-driven flooding""",0.8506,0.6164
+V272,"UK politicians think public opposition to climate policy is far greater than it is, study finds",1,relevant,0.995,1,relevant,1,positive,US,"""climate policy""",0.995,0.9313
+V273,My Mom Is an Avid Gardener—She Swears That Cutting Back These 4 Plants in Fall Is a Waste of Time,0,not_relevant,0.0308,0,not_relevant,1,hard,IN,"""waste of time""",0.0308,0.1
+V274,"Fed's Warsh sees US resilience, mum on rate-path view",0,not_relevant,0.1295,0,not_relevant,1,easy,US,Fed interest rate decision,0.1295,0.228
+V275,Electrical Worker Dies Following Incident at Southern California Facility,0,not_relevant,0.2715,0,not_relevant,1,adjacent,US,worker safety,0.2715,0.1742
+V276,Brilliant Earth Promo Codes: Get Free Diamond Earrings With Select Purchases,0,not_relevant,0.0133,0,not_relevant,1,adjacent,US,Earth Day sale,0.0133,0.0413
+V277,Firm assures shareholders of sustainable growth,0,not_relevant,0.3986,0,not_relevant,1,hard,US,"""sustainable growth"" earnings",0.3986,0.787
+V278,Coral reef bombed once every 62 minutes,1,relevant,0.8736,0,not_relevant,0,positive,US,"""coral reef""",0.8736,0.9548
+V279,Sociologist alumna who studies climate change wins MacArthur Fellowship,1,relevant,0.9747,1,relevant,1,positive,US,"""climate change""",0.9747,0.9884
+V280,"The family of a man whose donated organs went on to help others say they will ""always be grateful"" to the Air Ambulance Charity Kent, Surrey, Sussex for treating him. More here: https://bbc.in/4iKWR6f",0,not_relevant,0.0207,0,not_relevant,1,adjacent,IN,charity donation,0.0207,0.1206
+V281,Hundreds of Chevron Richmond employees pitch in during fall volunteer campaign,0,not_relevant,0.1696,0,not_relevant,1,adjacent,US,employee volunteering,0.1696,0.34
+V282,"WWF Living Planet Report 2026: 73% Wildlife Population Decline, Key Facts, Major Findings, Importance of COP17, India's Role, Significance and Limitations",1,relevant,0.9293,1,relevant,1,positive,IN,"""Project Tiger conservation""",0.9293,0.6828
+V283,The major unanswered questions that expose huge gaps in Mamdani’s grocery store plan,0,not_relevant,0.2384,0,not_relevant,1,hard,IN,"""offset the cost""",0.2384,0.3555
+V284,"OMCs can absorb $85-90 crude, sustained rise above $100 may trigger petrol, diesel price hike",0,not_relevant,0.0179,0,not_relevant,1,adjacent,IN,petrol diesel price hike,0.0179,0.0388
+V285,Atlanta Falcons' Week 3 depth chart vs. Green Bay Packers,0,not_relevant,0.0301,0,not_relevant,1,hard,US,Green Bay Packers,0.0301,0.0229
+V286,Football Recap: Gavin Zanotelli Comes Up Big in Fossil Ridge's Win + How To Watch,0,not_relevant,0.0333,0,not_relevant,1,hard,US,fossil watch,0.0333,0.0527
+V287,Scottsdale’s water recycling program hits election-year backlash,1,relevant,0.9944,1,relevant,1,positive,US,recycling,0.9944,0.9463
+V288,Wildfires and Climate: Experts Help You Get the Story Right,1,relevant,0.5665,0,not_relevant,0,positive,IN,"""wildfire climate""",0.5665,0.6043
+V289,Trial date set for supervisor's alleged assault charge,0,not_relevant,0.0033,0,not_relevant,1,hard,IN,"""assault and battery""",0.0033,0.0139
+V290,Dialogue Explores Strengthening Private-Sector Participation to Enhance Public Transport Efficiency,1,relevant,0.73,0,not_relevant,0,positive,US,"""public transport electrification""",0.73,0.8602
+V291,Six Lessons from Six Years of Climate Action at BCG,1,relevant,0.9468,1,relevant,1,positive,IN,"""net zero pledge""",0.9468,0.9423
+V292,"Earnings Misses: Between Tesla and Alphabet, Only One Deserved Punishment",0,not_relevant,0.0355,0,not_relevant,1,adjacent,US,Tesla earnings,0.0355,0.0178
+V293,"Brazil publishes regulations for ProBioQAV, the country’s SAF mandate program",1,relevant,0.9068,1,relevant,1,positive,US,"""sustainable aviation fuel""",0.9068,0.9106
+V294,More Americans See Business Benefits From Diverse Workforces,0,not_relevant,0.0045,0,not_relevant,1,adjacent,IN,workplace diversity,0.0045,0.0482
+V295,Trump Too Stubborn to Rejoin Paris Agreement: Indonesian Minister,1,relevant,0.4797,0,not_relevant,0,positive,US,"""Paris Agreement US""",0.4797,0.8072
+V296,Fed’s Barr Says More Rate Hikes Likely Needed to Return Inflation to Target,0,not_relevant,0.0593,0,not_relevant,1,easy,US,Fed interest rate decision,0.0593,0.076
+V297,Melting of Antarctica’s Thwaites Glacier Could Raise Sea Levels by 30mm by 2100—Double Previous Estimates,1,relevant,0.9091,1,relevant,1,positive,IN,"""glacier melt""",0.9091,0.8273
+V298,Protean eGov Technologies reports 60% drop in Scope 1 & 2 emissions for FY26,1,relevant,0.8987,1,relevant,1,positive,IN,"""scope 3 emissions""",0.8987,0.7388
+V299,U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz,0,not_relevant,0.059,0,not_relevant,1,adjacent,IN,oil prices,0.059,0.106
+V300,Renewable Energy Super PAC Targets 7 Republicans With $15 Million War Chest,1,relevant,0.8583,0,not_relevant,0,positive,US,"""renewable energy""",0.8583,0.5725
