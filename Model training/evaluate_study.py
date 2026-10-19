@@ -100,6 +100,20 @@ def bootstrap_ci(y, pred, n=1000, seed=0):
     return {k: (float(np.percentile(v, 2.5)), float(np.percentile(v, 97.5))) for k, v in out.items()}
 
 
+def bootstrap_auc_ci(y, score, n=1000, seed=0):
+    """95% bootstrap confidence intervals for ROC-AUC and PR-AUC (resampling the trials)."""
+    rng = np.random.RandomState(seed)
+    roc, pr = [], []
+    for _ in range(n):
+        i = rng.randint(0, len(y), len(y))
+        if y[i].min() == y[i].max():  # needs both classes
+            continue
+        roc.append(roc_auc_score(y[i], score[i]))
+        pr.append(average_precision_score(y[i], score[i]))
+    return {"roc_auc": (float(np.percentile(roc, 2.5)), float(np.percentile(roc, 97.5))),
+            "pr_auc": (float(np.percentile(pr, 2.5)), float(np.percentile(pr, 97.5)))}
+
+
 def precision_at_prevalence(recall, specificity, prevalence):
     """Expected precision if only `prevalence` of a real feed is relevant."""
     tp = recall * prevalence
@@ -229,11 +243,14 @@ def main():
 
     m = tuned[chosen]
     ci = bootstrap_ci(y, (scores[chosen] >= thr[chosen]).astype(int))
+    ci_auc = bootstrap_auc_ci(y, scores[chosen])
+    ci.update(ci_auc)
     p_prev = precision_at_prevalence(m["recall"], m["specificity"], args.prevalence)
     print(f"\n{tm.MODEL_NAMES[chosen]} at threshold {thr[chosen]:.3f} (95% bootstrap intervals):")
     for k in ("accuracy", "precision", "recall", "f1"):
         print(f"  {k:<9} {m[k]:.3f}   [{ci[k][0]:.3f}, {ci[k][1]:.3f}]")
-    print(f"  ROC-AUC   {aucs[chosen]:.3f}    PR-AUC {aps[chosen]:.3f}")
+    print(f"  ROC-AUC   {aucs[chosen]:.3f}   [{ci['roc_auc'][0]:.3f}, {ci['roc_auc'][1]:.3f}]")
+    print(f"  PR-AUC    {aps[chosen]:.3f}   [{ci['pr_auc'][0]:.3f}, {ci['pr_auc'][1]:.3f}]")
     print(f"  Precision target was {precision_target:.0%}; "
           f"{'reached' if m['precision'] >= precision_target else 'NOT reached'} on this set.")
     print(f"  Estimated precision if only {args.prevalence:.0%} of a real feed is relevant: {p_prev:.3f}")
