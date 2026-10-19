@@ -18,3 +18,5 @@ done_*.txt
 
 # Local notes
 directory_structure.txt
+*.pdf
+study_dataset_submission.csv
